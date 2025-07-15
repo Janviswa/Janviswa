@@ -4,12 +4,13 @@
 
 <img align="right" width="370" height="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
+- 🔭 Here's my [portfolio](https://your-portfolio-link.com)  
 - 🎓 B.Tech in Artificial Intelligence & Data Science  
-- 🔭 Passionate about building software that solves real-world problems  
-- 📚 Currently learning **Dart & Flutter** and exploring **Full Stack Python**  
-- 🤖 Keen on **AI, Machine Learning, and Real-time Projects**  
-- 🛠️ Recent Projects: Health App, Movie Recommender, Sentiment Analysis, IoT systems  
-- 📬 Email: jananiviswa05@gmail.com  
+- 💡 Passionate about building software that solves real-world problems  
+- 📚 Currently learning: `Dart`, `Flutter`, and exploring Full Stack Python  
+- 🤖 Interests: Artificial Intelligence, Machine Learning, Data Science  
+- 🛠️ Recent Projects: Disease Prediction Web App, Movie Recommender, Gesture Control Game
+- 📬 Reach me at: **jananiviswa05@gmail.com**
 
 ### 🌐 Connect with Me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jananiv05/)  
