@@ -1,10 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F875AA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Janani+%F0%9F%91%8B" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F875AA&center=false&vCenter=true&width=500&lines=Hi+there!+I'm+Janani+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="280" alt="Tech Thinking GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Unique Tech GIF" />
 </p>
+
+🔭 Here's my [portfolio](https://your-portfolio-link.com)
 
 🎓 Pre-final Year Student — *Karpaga Vinayaga College of Engineering & Technology*  
 
@@ -16,10 +18,12 @@
 
 📈 Exploring: `LeetCode`, `Dart`, and UI/UX design  
 
+---
+
 ### 📱 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK/)  
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white)](https://your-portfolio-link.com)
 
 ### 💻 I Code In
