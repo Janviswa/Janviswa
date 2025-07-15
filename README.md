@@ -15,7 +15,7 @@
 ### 🌐 Connect with Me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jananiv05/)  
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"](https://x.com/Jan_viswa)  
-[<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Janviswa)  
+[src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Janviswa)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white)](https://your-portfolio-link.com)
 
 ### I code in
