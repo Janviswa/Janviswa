@@ -19,32 +19,39 @@
 
 ### I code in
 
-<img src="https://img.icons8.com/color/48/python.png" title="Python"/> 
-<img src="https://img.icons8.com/color/48/c-programming.png" title="C"/> 
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/> 
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/> 
-<img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/> 
-<img src="https://img.icons8.com/color/48/css3.png" title="CSS"/> 
-<img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/> 
-<img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
+<p>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
+</p>
+
 
 ### 🧩 Frameworks  
-<img src="https://img.icons8.com/color/48/flutter.png" title="Flutter"/> 
-<img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/> 
-<img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/> 
-<img src="https://img.icons8.com/color/48/react-native.png" title="React Native"/> 
-<img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/> 
-<img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/> 
-<img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow"/>
+<p>
+  <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter"/>
+  <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React Native"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow"/>
+</p>
 
 ### 🛠️ Tools & IDEs  
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/> 
-<img src="https://img.icons8.com/color/48/pycharm.png" title="PyCharm"/> 
-<img src="https://img.icons8.com/color/48/notion--v1.png" title="Notion"/> 
-<img src="https://img.icons8.com/doodle/48/adobe-photoshop.png" title="Photoshop"/> 
-<img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma"/> 
-<img src="https://img.icons8.com/color/48/git.png" title="Git"/> 
-<img src="https://img.icons8.com/dusk/64/anaconda.png" title="Anaconda"/>
+<p>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/pycharm.png" title="PyCharm"/>
+  <img src="https://img.icons8.com/color/48/notion--v1.png" title="Notion"/>
+  <img src="https://img.icons8.com/doodle/48/adobe-photoshop.png" title="Photoshop"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+  <img src="https://img.icons8.com/dusk/64/anaconda.png" title="Anaconda"/>
+</p>
 
 ### 📊 GitHub Stats  
 ![Janani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=radical)  
