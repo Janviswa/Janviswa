@@ -1,87 +1,51 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F875AA&center=false&vCenter=true&width=500&lines=Hi+there!+I'm+Janani+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F875AA&center=false&vCenter=true&width=500&lines=Hi+there!+I'm+Janani+%F0%9F%91%8B;AI+%26+DS+Student;Machine+Learning+Enthusiast;Loves+Building+Useful+Projects" />
 </p>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Working Tech Girl" />
-</p>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Here's my [portfolio](https://your-portfolio-link.com)  
-- 🎓 Pre-final Year Student — *Karpaga Vinayaga College of Engineering & Technology*  
-- 🌱 Currently learning: `Flutter`, `Firebase`, `MongoDB`, `Node.js`  
-- 💡 Interested in AI, Full-Stack Web & Mobile Development  
-- 🛠️ Building Python-based AI apps, Streamlit dashboards, and Dart-powered mobile UIs  
-- 📈 Exploring: `LeetCode`, `Dart`, and UI/UX design  
+- 🎓 Final year B.Tech Student in Artificial Intelligence & Data Science  
+- 💡 Passionate about building software that solves real-world problems  
+- 🧠 Currently learning **Dart & Flutter**, expanding Python Full Stack skills  
+- 📊 Interested in **AI, ML, and Data Science**  
+- 🚀 Projects: Checkup Buddy (AI Health App), Movie Recommender, Sentiment Analysis, IoT Systems  
+- 📬 Reach me at: **jananiv2604@gmail.com**  
 
----
-
-### 📱 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK/)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white)](https://your-portfolio-link.com)
+### 🌐 Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/janani-v/)  
+[<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/)  
+[<img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white" />](#)
 
 ---
 
-### I code in
+### 💻 Tech Stack
 
-<img src="https://img.icons8.com/color/48/python.png" title="Python"/> 
-<img src="https://img.icons8.com/color/48/c-programming.png" title="C"/> 
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/> 
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/> 
-<img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/> 
-<img src="https://img.icons8.com/color/48/css3.png" title="CSS"/> 
-<img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/> 
-<img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
+**Languages & Libraries**  
+<img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="40" src="https://img.icons8.com/color/48/null/c-programming.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/null/tensorflow.png"/> <img height="40" src="https://img.icons8.com/color/48/flutter.png"/>
+
+**Frameworks & Tools**  
+<img height="40" src="https://img.icons8.com/color/48/000000/anaconda.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/color/48/null/jupyter.png"/> <img height="40" src="https://img.icons8.com/color/48/null/git.png"/> <img height="40" src="https://img.icons8.com/color/48/null/firebase.png"/> <img height="40" src="https://img.icons8.com/color/48/null/figma.png"/>  
 
 ---
 
-### Frameworks / Tools
-
-<img src="https://img.icons8.com/color/48/flutter.png" title="Flutter"/> 
-<img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/> 
-<img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/> 
-<img src="https://img.icons8.com/color/48/react-native.png" title="React Native"/> 
-<img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/> 
-<img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/> 
-<img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow"/>
-
----
-
-### IDE & Tools
-
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/> 
-<img src="https://img.icons8.com/color/48/pycharm.png" title="PyCharm"/> 
-<img src="https://img.icons8.com/color/48/notion--v1.png" title="Notion"/> 
-<img src="https://img.icons8.com/doodle/48/adobe-photoshop.png" title="Photoshop"/> 
-<img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma"/> 
-<img src="https://img.icons8.com/color/48/git.png" title="Git"/> 
-<img src="https://img.icons8.com/dusk/64/anaconda.png" title="Anaconda"/>
+### 🔧 Workspace & Gears  
+<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/RAM-16GB-00BFFF?style=for-the-badge"/> <img height="30" src="https://img.shields.io/badge/Processor-i5_10thGen-ff5733?style=for-the-badge"/>
 
 ---
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jananiv&show_icons=true&theme=tokyonight&hide_title=false" height="165"/>
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananiv&layout=compact&theme=tokyonight" height="165"/>
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jananiv&theme=tokyonight&hide_border=true"/>
+![Janani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jananiv26&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jananiv26&layout=compact&theme=radical)
 
 ---
 
-### 🧠 LeetCode Stats
+### 📈 Activity Graph
 
-<a href="https://leetcode.com/u/Janani_viswa/">
-  <img src="https://leetcard.jacoblin.cool/Janani_viswa?ext=contest&theme=dark" />
-</a>
+[![Janani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jananiv26&bg_color=000000&color=00ffd5&line=00ffbb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jananiv&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" />
-
----
-
-> _"Code with passion. Build with purpose."_
+### 🔍 LeetCode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/jananiv26?ext=contest&theme=dark)](https://leetcode.com/jananiv26/)
