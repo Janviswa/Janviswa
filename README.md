@@ -1,19 +1,25 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F875AA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Janani+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Tech GIF" />
+
+<p align="right">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="280" alt="Tech Thinking GIF" />
 </p>
 
 🎓 Pre-final Year Student — *Karpaga Vinayaga College of Engineering & Technology*  
+
 🌱 Currently learning: `Flutter`, `Firebase`, `MongoDB`, `Node.js`  
+
 💡 Interested in AI, Full-Stack Web & Mobile Development  
+
 🛠️ Building Python-based AI apps, Streamlit dashboards, and Dart-powered mobile UIs  
+
 📈 Exploring: `LeetCode`, `Dart`, and UI/UX design  
 
 ### 📱 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK/)
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_HANDLE/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK/)  
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white)](https://your-portfolio-link.com)
 
 ### 💻 I Code In
@@ -50,34 +56,22 @@
   <img src="https://img.icons8.com/dusk/64/anaconda.png" title="Anaconda"/>
 </p>
 
-### 🖥️ Workspace Specs
-💻 Laptop: ASUS Ryzen 5 4600H / GTX1650  
-🍏 Secondary: MacBook Pro M1 (for iOS builds)  
-🧠 OS: Windows 11 / macOS Ventura  
-
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jananiv&show_icons=true&theme=tokyonight&hide_title=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananiv&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jananiv&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=jananiv&show_icons=true&theme=tokyonight&hide_title=false" height="165"/>
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananiv&layout=compact&theme=tokyonight" height="165"/>
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jananiv&theme=tokyonight&hide_border=true"/>
 
 ### 🧠 LeetCode Stats
 
-<p align="center">
-  <a href="https://leetcode.com/u/Janani_viswa/">
-    <img src="https://leetcard.jacoblin.cool/Janani_viswa?ext=contest&theme=dark" />
-  </a>
-</p>
+<a href="https://leetcode.com/u/Janani_viswa/">
+  <img src="https://leetcard.jacoblin.cool/Janani_viswa?ext=contest&theme=dark" />
+</a>
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jananiv&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jananiv&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" />
 
 > _"Code with passion. Build with purpose."_
