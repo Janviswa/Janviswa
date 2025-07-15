@@ -8,15 +8,15 @@
 - 🎓 B.Tech in Artificial Intelligence & Data Science  
 - 💡 Passionate about building software that solves real-world problems  
 - 📚 Currently learning: `Dart`, `Flutter`, and exploring Full Stack Python  
-- 🤖 Interests: Artificial Intelligence, Machine Learning, Data Science  
-- 🛠️ Recent Projects: Disease Prediction Web App, Movie Recommender, Gesture Control Game
+- 🤖 Interests: Artificial Intelligence, Machine Learning, and Data Science  
+- 🛠️ Recent Projects: Disease Prediction Web App, Movie Recommender, Gesture-Controlled Game  
 - 📬 Reach me at: **jananiviswa05@gmail.com**
 
 ### 🌐 Connect with Me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jananiv05/)  
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Jan_viswa)  
 [<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Janviswa)  
-[<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge" />](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white)](https://your-portfolio-link.com)
 
 ### I code in
 
