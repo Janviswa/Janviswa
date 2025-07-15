@@ -64,4 +64,4 @@
 ### 💡 LeetCode Stats  
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Janani_viswa?ext=contest&theme=dark)](https://leetcode.com/u/Janani_viswa/)
 
-> *Transforming curiosity into code, one project at a time.*
+> _"Code with passion. Build with purpose."_
