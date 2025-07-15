@@ -8,13 +8,13 @@
 🎓 Pre-final Year Student — *Karpaga Vinayaga College of Engineering & Technology*  
 🌱 Currently learning: `Flutter`, `Firebase`, `MongoDB`, `Node.js`  
 💡 Interested in AI, Full-Stack Web & Mobile Development  
-🛠️ Building Python-based AI apps, Streamlit dashboards, and mobile UIs  
+🛠️ Building Python-based AI apps, Streamlit dashboards, and Dart-powered mobile UIs  
 📈 Exploring: `LeetCode`, `Dart`, and UI/UX design  
 
 ### 📱 Connect with me
-br[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK/)
-br[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_HANDLE/)
-br[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK/)
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_HANDLE/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white)](https://your-portfolio-link.com)
 
 ### 💻 I Code In
 <p>
@@ -56,20 +56,28 @@ br[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badg
 🧠 OS: Windows 11 / macOS Ventura  
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jananiv&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananiv&layout=compact&theme=radical" height="165"/>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jananiv&show_icons=true&theme=tokyonight&hide_title=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananiv&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jananiv&theme=radical&hide_border=true"/>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jananiv&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### 🧠 LeetCode Stats
+
 <p align="center">
   <a href="https://leetcode.com/u/Janani_viswa/">
-    <img src="https://leetcard.jacoblin.cool/Janani_viswa?ext=contest&theme=dark"/>
+    <img src="https://leetcard.jacoblin.cool/Janani_viswa?ext=contest&theme=dark" />
   </a>
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jananiv&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" />
 </p>
 
 > _"Code with passion. Build with purpose."_
