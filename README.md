@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=2000&color=F875AA&center=false&vCenter=true&width=500&lines=Hi+there!+I'm+Janani+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-<img align="right" width="370" height="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<table>
+<tr>
+<td width="60%">
 
 - 🔭 Here's my [portfolio](https://your-portfolio-link.com)  
 - 🎓 B.Tech in Artificial Intelligence & Data Science  
@@ -12,6 +14,13 @@
 - 🛠️ Recent Projects: Disease Prediction Web App, Movie Recommender, Gesture-Controlled Game  
 - 📬 Reach me at: **jananiviswa05@gmail.com**
 
+</td>
+<td>
+  <img align="right" width="320" height="240" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+</td>
+</tr>
+</table>
+
 ### 🌐 Connect with Me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jananiv05/)  
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Jan_viswa)  
@@ -19,7 +28,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white)](https://your-portfolio-link.com)
 
 ### I code in
-
 <p>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
@@ -30,7 +38,6 @@
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
 </p>
-
 
 ### 🧩 Frameworks  
 <p>
@@ -55,8 +62,8 @@
 </p>
 
 ### 📊 GitHub Stats  
-![Janani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=compact&theme=radical)
+![Janani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=compact&theme=tokyonight)
 
 ### 📈 Contribution Activity  
 [![Janani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Janviswa&bg_color=000000&color=00ffd5&line=00ffbb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
