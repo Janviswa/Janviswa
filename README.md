@@ -55,8 +55,8 @@
 </p>
 
 ### 📊 GitHub Stats  
-![Janani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=onedark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=compact&theme=onedark)
+![Janani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=compact&theme=tokyonight)
 
 ### 📈 Contribution Activity  
 [![Janani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Janviswa&bg_color=000000&color=00ffd5&line=00ffbb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
