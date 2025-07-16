@@ -9,7 +9,8 @@
 - 💡 Passionate about building software that solves real-world problems  
 - 📚 Currently learning: `Dart`, `Flutter`, and exploring Full Stack Python  
 - 🤖 Interests: Artificial Intelligence, Machine Learning, and Data Science  
-- 🛠️ Recent Projects: Disease Prediction Web App, Movie Recommender, Gesture-Controlled Game  
+- 🛠️ Recent Projects: Disease Prediction Web App, Movie Recommender,
+  Gesture-Controlled Game  
 - 📬 Reach me at: **jananiviswa05@gmail.com**
 
 ---
