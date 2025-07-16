@@ -2,18 +2,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=2000&color=F875AA&center=false&vCenter=true&width=500&lines=Hi+there!+I'm+Janani+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-<img align="right" width="320" height="240" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
-
+<!-- Bio section (text only) -->
 - 🔭 Here's my [portfolio](https://your-portfolio-link.com)  
 - 🎓 B.Tech in Artificial Intelligence & Data Science  
 - 💡 Passionate about building software that solves real-world problems  
 - 📚 Currently learning: `Dart`, `Flutter`, and exploring Full Stack Python  
 - 🤖 Interests: Artificial Intelligence, Machine Learning, and Data Science  
-- 🛠️ Recent Projects: Disease Prediction Web App, Movie Recommender,
-  Gesture-Controlled Game  
+- 🛠️ Recent Projects: Disease Prediction Web App, Movie Recommender, Gesture-Controlled Game  
 - 📬 Reach me at: **jananiviswa05@gmail.com**
 
----
+<!-- GIF on a new line -->
+<br/>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="350" height="250" />
+</p>
+
 
 ### 🌐 Connect with Me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jananiv05/)  
@@ -21,7 +25,6 @@
 [<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Janviswa)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white)](https://your-portfolio-link.com)
 
----
 
 ### 💻 I code in
 <p>
@@ -35,8 +38,6 @@
   <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
 </p>
 
----
-
 ### 🧩 Frameworks  
 <p>
   <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter"/>
@@ -48,7 +49,6 @@
   <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow"/>
 </p>
 
----
 
 ### 🛠️ Tools & IDEs  
 <p>
@@ -61,22 +61,18 @@
   <img src="https://img.icons8.com/dusk/64/anaconda.png" title="Anaconda"/>
 </p>
 
----
 
 ### 📊 GitHub Stats  
 ![Janani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=algolia)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=compact&theme=algolia)
 
----
 
 ### 📈 Contribution Activity  
 [![Janani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Janviswa&bg_color=000000&color=00ffd5&line=00ffbb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
 ### 💡 LeetCode Stats  
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Janani_viswa?ext=contest&theme=dark)](https://leetcode.com/u/Janani_viswa/)
 
----
 
 > _"Code with passion. Build with purpose."_
