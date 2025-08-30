@@ -22,12 +22,6 @@
 
 <p>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
 </p>
 
