@@ -41,8 +41,6 @@
 <p>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/pycharm.png" title="PyCharm"/>
-  <img src="https://img.icons8.com/color/48/notion--v1.png" title="Notion"/>
-  <img src="https://img.icons8.com/doodle/48/adobe-photoshop.png" title="Photoshop"/>
   <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma"/>
   <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
   <img src="https://img.icons8.com/dusk/64/anaconda.png" title="Anaconda"/>
