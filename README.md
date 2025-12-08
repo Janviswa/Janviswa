@@ -4,7 +4,6 @@
 
 <img align="right" width="360" height="270" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 Here's my [portfolio](https://your-portfolio-link.com)  
 - 🎓 B.Tech in Artificial Intelligence & Data Science  
 - 💡 Passionate about building software that solves real-world problems  
 - 📚 Currently learning: Dart, Flutter, and exploring Full Stack Python  
@@ -22,28 +21,25 @@
 
 <p>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
+  <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" title="SQL"/>
 </p>
-
 
 ### 🧩 Frameworks  
 <p>
   <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter"/>
   <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" title="React Native"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" title="Streamlit"/>
   <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow"/>
+  <img src="https://img.icons8.com/?size=48&id=48498&format=png" title="Scikit-learn"/>
 </p>
 
 ### 🛠️ Tools & IDEs  
 <p>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/pycharm.png" title="PyCharm"/>
-  <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma"/>
+  <img src="https://img.icons8.com/?size=48&id=rY6agKizO9eb&format=png" title="Cursor IDE"/>
+  <img src="https://img.icons8.com/?size=48&id=O13F54guB27L&format=png" title="Windsurf"/>
   <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
-  <img src="https://img.icons8.com/dusk/64/anaconda.png" title="Anaconda"/>
 </p>
 
 ### 📊 GitHub Stats  
