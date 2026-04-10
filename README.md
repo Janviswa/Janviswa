@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F875AA&height=200&section=header&text=Janani%20V&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=1000&color=F875AA&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Building+intelligent+systems+that+actually+matter;%F0%9F%A7%A0+Fine-tuning+LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+NLP;%F0%9F%94%AC+Patent+Holder+%C2%B7+Published+Researcher+%C2%B7+AI+Engineer;%F0%9F%9A%80+From+raw+tokens+%E2%86%92+real-world+impact;%F0%9F%A4%96+if+%28problem%29+%7B+build_ai%28%29%3B+%7D" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=1000&color=F875AA&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Building+intelligent+systems+that+actually+matter;%F0%9F%A7%A0+Fine-tuning+LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+NLP;%F0%9F%94%AC+Patent+Holder+%C2%B7+Published+Researcher+%C2%B7+AI+Engineer;%F0%9F%9A%80+From+raw+tokens+%E2%86%92+real-world+impact" alt="Typing SVG"/>
 
 <br/>
 
