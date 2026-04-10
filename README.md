@@ -174,8 +174,17 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-<!-- Cycling animation — one specialization at a time, feels like an active building loop -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=600&color=F875AA&center=true&vCenter=true&width=780&lines=🧠+LLM+Fine-Tuning+%7C+LoRA+·+QLoRA+·+PEFT+·+RLHF+·+DPO;🔍+RAG+Systems+%7C+Semantic+Search+·+Vector+Stores+·+Hybrid+Retrieval;🕵️+Agentic+AI+%7C+Tool+Calling+·+Multi-Agent+·+LangGraph+·+CrewAI;💬+NLP+%26+Text+AI+%7C+Sentiment+·+NER+·+QA+·+Summarization;👁️+Computer+Vision+%7C+Object+Detection+·+YOLO+·+OpenCV+·+ResNet;📊+Data+Science+%7C+EDA+·+Feature+Engineering+·+ML+Pipelines" alt="AI Specializations"/>
+![LLM Fine-Tuning](https://img.shields.io/badge/🧠_LLM_Fine--Tuning-LoRA_·_QLoRA_·_PEFT_·_RLHF_·_DPO-F875AA?style=for-the-badge)
+
+![RAG Systems](https://img.shields.io/badge/🔍_RAG_Systems-Semantic_Search_·_Vector_Stores_·_Hybrid_Retrieval-F875AA?style=for-the-badge)
+
+![Agentic AI](https://img.shields.io/badge/🕵️_Agentic_AI-Tool_Calling_·_Multi--Agent_·_LangGraph_·_CrewAI-F875AA?style=for-the-badge)
+
+![NLP](https://img.shields.io/badge/💬_NLP_%26_Text_AI-Sentiment_·_NER_·_QA_·_Summarization-F875AA?style=for-the-badge)
+
+![Computer Vision](https://img.shields.io/badge/👁️_Computer_Vision-Object_Detection_·_YOLO_·_OpenCV_·_ResNet-F875AA?style=for-the-badge)
+
+![Data Science](https://img.shields.io/badge/📊_Data_Science-EDA_·_Feature_Engineering_·_ML_Pipelines-F875AA?style=for-the-badge)
 
 </div>
 
@@ -274,8 +283,15 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-<!-- Fixed: removed multiline=true + repeat=false which caused broken image; now loops cleanly -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2000&pause=600&color=F875AA&center=true&vCenter=true&width=750&lines=🚀+Ship+3%2B+production-ready+AI+systems+........+%5BIN+PROGRESS%5D;📖+Publish+2nd+research+paper+..................+%5BIN+PROGRESS%5D;🤖+Master+multi-agent+LLM+frameworks+..........+%5BIN+PROGRESS%5D;🔧+Build+%26+open-source+a+RAG+framework+.......+%5BPLANNED+📅%5D;🎓+Land+an+AI%2FML+engineering+internship+.......+%5BPLANNED+📅%5D;⭐+Contribute+to+top+open-source+AI+repos+......+%5BPLANNED+📅%5D;🧠+Train+a+model+from+scratch+%28not+fine-tune%29+..+%5BDREAMING+🔥%5D" alt="2026 Goals"/>
+| | Goal | Status |
+|:--:|:--|:--|
+| 🚀 | Ship 3+ production-ready AI systems | ![](https://img.shields.io/badge/IN_PROGRESS-F875AA?style=flat-square) |
+| 📖 | Publish 2nd research paper | ![](https://img.shields.io/badge/IN_PROGRESS-F875AA?style=flat-square) |
+| 🤖 | Master multi-agent LLM frameworks | ![](https://img.shields.io/badge/IN_PROGRESS-F875AA?style=flat-square) |
+| 🔧 | Build & open-source a RAG framework | ![](https://img.shields.io/badge/PLANNED_📅-555555?style=flat-square) |
+| 🎓 | Land an AI/ML engineering internship | ![](https://img.shields.io/badge/PLANNED_📅-555555?style=flat-square) |
+| ⭐ | Contribute to top open-source AI repos | ![](https://img.shields.io/badge/PLANNED_📅-555555?style=flat-square) |
+| 🧠 | Train a model from scratch (not just fine-tune) | ![](https://img.shields.io/badge/DREAMING_🔥-ff6b35?style=flat-square) |
 
 </div>
 
@@ -286,8 +302,16 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-<!-- Animated typewriter quote — cycles through the full quote line by line -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1500&color=F875AA&center=true&vCenter=true&width=820&lines=%22The+models+that+change+the+world...%22;%22...aren%27t+the+ones+with+the+most+parameters%22;%22—+they%27re+the+ones+built+by+people+who+refuse+to+stop.%22;—+Janani+V%2C+probably+at+2+AM+debugging+a+fine-tune+🌙" alt="Quote I Live By"/>
+<br/>
+
+> ### *❝ The models that change the world aren't the ones with the most parameters —*
+> ### *they're the ones built by people who refuse to stop. ❞*
+>
+> <br/>
+>
+> — **Janani V** &nbsp;·&nbsp; *probably at 2 AM debugging a fine-tune* 🌙
+
+<br/>
 
 </div>
 
