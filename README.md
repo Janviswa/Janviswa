@@ -20,38 +20,61 @@
 
 ---
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="320"/>
+<div align="center">
 
 ### `> whoami`
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```python
 class Janani:
-    degree      = "B.Tech AI & Data Science '26"
-    cgpa        = 8.05
-
-    currently_building = [
-        "Real-time AI systems with LLMs",
-        "Fine-tuned models via LoRA / QLoRA",
-        "RAG pipelines & Agentic workflows",
-    ]
-
-    currently_learning = [
-        "Retrieval-Augmented Generation (RAG)",
-        "LLM Agents & Tool Calling",
-        "Multimodal AI (Vision + Language)",
-        "Vector Databases (FAISS, ChromaDB)",
-        "Quantization & Model Compression",
-    ]
-
-    achievements = [
-        "🔬 Patent Holder — AI Smart Helmet",
-        "📖 Research Published — ICNGTS 2026",
-    ]
-
-    motto = "Code with passion. Build with purpose."
+    degree  = "B.Tech AI & Data Science '26"
+    cgpa    = 8.05
+    based   = "Tamil Nadu, India 🇮🇳"
+    role    = "Aspiring AI Engineer"
 ```
 
-<br clear="right"/>
+<br/>
+
+**🔨 Currently Building**
+```
+  ↳ Real-time AI systems with LLMs
+  ↳ Fine-tuned models via LoRA / QLoRA
+  ↳ RAG pipelines & Agentic workflows
+```
+
+**📡 Currently Learning**
+```
+  ↳ LLM Agents & Tool Calling
+  ↳ Multimodal AI (Vision + Language)
+  ↳ Vector DBs — FAISS, ChromaDB
+  ↳ Quantization & Model Compression
+  ↳ Agentic AI Frameworks
+```
+
+**⚡ Fun Facts**
+```
+  ↳ 🔬 Patent Holder — AI Smart Helmet
+  ↳ 📖 Published Researcher — ICNGTS 2026
+  ↳ 💬 motto: "Code with passion. Build with purpose."
+```
+
+</td>
+<td width="45%" valign="center" align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="280"/>
+
+<br/><br/>
+
+![Visits](https://komarev.com/ghpvc/?username=Janviswa&style=for-the-badge&color=F875AA&label=PROFILE+VIEWS)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
