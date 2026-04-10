@@ -90,14 +90,10 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <br/><br/>
 
-<!-- QUICK STATS ROW -->
-<table>
-  <tr>
-    <td align="center"><b>🔬</b><br/>Patent<br/>Holder</td>
-    <td align="center"><b>📖</b><br/>Published<br/>Researcher</td>
-    <td align="center"><b>🤗</b><br/>HuggingFace<br/>Models</td>
-  </tr>
-</table>
+![Patent](https://img.shields.io/badge/🔬_Patent-Holder-F875AA?style=for-the-badge)
+![Research](https://img.shields.io/badge/📖_ICNGTS-2026_Published-F875AA?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Model_Author-FFD21F?style=for-the-badge)
+![OpenSource](https://img.shields.io/badge/⭐_Open_Source-Contributor-F875AA?style=for-the-badge)
 
 </td>
 </tr>
@@ -182,84 +178,17 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
+![LLM Fine-Tuning](https://img.shields.io/badge/🧠_LLM_Fine--Tuning-LoRA_·_QLoRA_·_PEFT_·_RLHF_·_DPO-F875AA?style=for-the-badge)
 
-### 🧠 LLM Fine-Tuning
-```
-LoRA · QLoRA · PEFT
-Instruction Tuning
-RLHF · DPO
-Parameter Efficiency
-Model Merging
-```
+![RAG](https://img.shields.io/badge/🔍_RAG_Systems-Semantic_Search_·_Vector_Stores_·_Hybrid_Retrieval-F875AA?style=for-the-badge)
 
-</td>
-<td align="center" width="33%">
+![Agentic AI](https://img.shields.io/badge/🕵️_Agentic_AI-Tool_Calling_·_Multi--Agent_·_LangGraph_·_CrewAI-F875AA?style=for-the-badge)
 
-### 🔍 RAG Systems
-```
-Semantic Search
-Vector Stores
-Chunking Strategies
-Hybrid Retrieval
-Re-ranking & Eval
-```
+![NLP](https://img.shields.io/badge/💬_NLP_&_Text_AI-Sentiment_·_NER_·_QA_·_Summarization-F875AA?style=for-the-badge)
 
-</td>
-<td align="center" width="33%">
+![Vision](https://img.shields.io/badge/👁️_Computer_Vision-Object_Detection_·_YOLO_·_OpenCV_·_ResNet-F875AA?style=for-the-badge)
 
-### 🕵️ Agentic AI
-```
-Tool Calling
-Multi-Agent Workflows
-Planning & Reasoning
-CrewAI · AutoGen
-LangGraph Flows
-```
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-### 💬 NLP & Text AI
-```
-Sentiment Analysis
-Text Classification
-Named Entity Recog.
-Question Answering
-Summarization
-```
-
-</td>
-<td align="center" width="33%">
-
-### 👁️ Computer Vision
-```
-Object Detection
-Image Classification
-OpenCV Pipelines
-YOLO · ResNet
-Feature Extraction
-```
-
-</td>
-<td align="center" width="33%">
-
-### 📊 Data Science
-```
-Exploratory Analysis
-Statistical Modeling
-Feature Engineering
-ML Pipelines
-Data Visualization
-```
-
-</td>
-</tr>
-</table>
+![Data Science](https://img.shields.io/badge/📊_Data_Science-EDA_·_Feature_Engineering_·_ML_Pipelines-F875AA?style=for-the-badge)
 
 </div>
 
@@ -281,19 +210,7 @@ Data Visualization
 
 </div>
 
----
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Janviswa&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&title_color=F875AA" width="100%"/>
-
-</div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -376,15 +293,7 @@ Data Visualization
 
 <div align="center">
 
-```
- ◉ Ship 3+ production-ready AI systems ............... [ IN PROGRESS ]
- ◉ Publish 2nd research paper ........................ [ IN PROGRESS ]
- ◉ Master multi-agent LLM frameworks ................. [ IN PROGRESS ]
- ◉ Build & open-source a RAG framework ............... [ PLANNED     ]
- ◉ Land an AI/ML engineering internship .............. [ PLANNED     ]
- ◉ Contribute to top open-source AI repos ............ [ PLANNED     ]
- ◉ Train a model from scratch (not just fine-tune) ... [ DREAMING 🔥 ]
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=400&color=F875AA&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=220&lines=🚀+Ship+3%2B+production-ready+AI+systems+............+[+IN+PROGRESS+];📖+Publish+2nd+research+paper+........................+[+IN+PROGRESS+];🤖+Master+multi-agent+LLM+frameworks+.................+[+IN+PROGRESS+];🔧+Build+%26+open-source+a+RAG+framework+...............+[+PLANNED+%F0%9F%93%85+];🎓+Land+an+AI%2FML+engineering+internship+................+[+PLANNED+%F0%9F%93%85+];⭐+Contribute+to+top+open-source+AI+repos+..............+[+PLANNED+%F0%9F%93%85+];🧠+Train+a+model+from+scratch+(not+just+fine-tune)+......+[+DREAMING+🔥+]" alt="2026 Goals"/>
 
 </div>
 
@@ -392,11 +301,13 @@ Data Visualization
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💬 Random Dev Quote
+## 💬 Quote I Live By
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+> *"The models that change the world aren't the ones with the most parameters — they're the ones built by people who refuse to stop."*
+>
+> — **Janani V**, probably at 2 AM debugging a fine-tune 🌙
 
 </div>
 
