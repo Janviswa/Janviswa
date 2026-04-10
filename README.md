@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F875AA&height=200&section=header&text=Janani%20V&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=1000&color=F875AA&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Building+intelligent+systems+that+actually+matter;%F0%9F%A7%A0+Fine-tuning+LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+NLP;%F0%9F%94%AC+Patent+Holder+%C2%B7+Published+Researcher+%C2%B7+AI+Engineer;%F0%9F%9A%80+From+raw+tokens+%E2%86%92+real-world+impact" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=1000&color=F875AA&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Building+intelligent+systems+that+actually+matter;%F0%9F%A7%A0+Fine-tuning+LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+NLP;%F0%9F%94%AC+Patent+Holder+%C2%B7+Published+Researcher+%C2%B7+AI+Engineer;%F0%9F%9A%80+From+raw+tokens+%E2%86%92+real-world+impact;%F0%9F%A4%96+if+%28problem%29+%7B+build_ai%28%29%3B+%7D" alt="Typing SVG"/>
 
 <br/>
 
@@ -170,11 +170,12 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> AI Specializations
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> AI Specializations — Currently Building 🔥
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=F875AA&center=true&vCenter=true&width=750&lines=🧠+LLM+Fine-Tuning+%7C+LoRA+·+QLoRA+·+PEFT+·+RLHF+·+DPO;🔍+RAG+Systems+%7C+Semantic+Search+·+Vector+Stores;🕵️+Agentic+AI+%7C+Tool+Calling+·+LangGraph+·+CrewAI;💬+NLP+%26+Text+AI+%7C+Sentiment+·+NER+·+QA;👁️+Computer+Vision+%7C+YOLO+·+OpenCV+·+ResNet;📊+Data+Science+%7C+EDA+·+Feature+Engineering" alt="AI Specializations"/>
+<!-- Cycling animation — one specialization at a time, feels like an active building loop -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=600&color=F875AA&center=true&vCenter=true&width=780&lines=🧠+LLM+Fine-Tuning+%7C+LoRA+·+QLoRA+·+PEFT+·+RLHF+·+DPO;🔍+RAG+Systems+%7C+Semantic+Search+·+Vector+Stores+·+Hybrid+Retrieval;🕵️+Agentic+AI+%7C+Tool+Calling+·+Multi-Agent+·+LangGraph+·+CrewAI;💬+NLP+%26+Text+AI+%7C+Sentiment+·+NER+·+QA+·+Summarization;👁️+Computer+Vision+%7C+Object+Detection+·+YOLO+·+OpenCV+·+ResNet;📊+Data+Science+%7C+EDA+·+Feature+Engineering+·+ML+Pipelines" alt="AI Specializations"/>
 
 </div>
 
@@ -194,7 +195,6 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=donut&theme=tokyonight&hide_border=true&title_color=F875AA&text_color=a9b1d6&bg_color=1a1b27&langs_count=8" height="220"/>
 
 </div>
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -274,7 +274,8 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2000&pause=500&color=F875AA&center=true&vCenter=true&width=750&lines=🚀+Ship+3%2B+production-ready+AI+systems+%5BIN+PROGRESS%5D;📖+Publish+2nd+research+paper+%5BIN+PROGRESS%5D;🤖+Master+multi-agent+LLM+frameworks+%5BIN+PROGRESS%5D;🔧+Build+%26+open-source+a+RAG+framework+%5BPLANNED%5D;🎓+Land+an+AI%2FML+internship+%5BPLANNED%5D;🧠+Train+a+model+from+scratch+%5BDREAMING+🔥%5D" alt="2026 Goals"/>
+<!-- Fixed: removed multiline=true + repeat=false which caused broken image; now loops cleanly -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2000&pause=600&color=F875AA&center=true&vCenter=true&width=750&lines=🚀+Ship+3%2B+production-ready+AI+systems+........+%5BIN+PROGRESS%5D;📖+Publish+2nd+research+paper+..................+%5BIN+PROGRESS%5D;🤖+Master+multi-agent+LLM+frameworks+..........+%5BIN+PROGRESS%5D;🔧+Build+%26+open-source+a+RAG+framework+.......+%5BPLANNED+📅%5D;🎓+Land+an+AI%2FML+engineering+internship+.......+%5BPLANNED+📅%5D;⭐+Contribute+to+top+open-source+AI+repos+......+%5BPLANNED+📅%5D;🧠+Train+a+model+from+scratch+%28not+fine-tune%29+..+%5BDREAMING+🔥%5D" alt="2026 Goals"/>
 
 </div>
 
@@ -285,11 +286,11 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=2000&color=F875AA&center=true&vCenter=true&width=800&lines=%22The+models+that+change+the+world+aren%27t+the+ones+with+the+most+parameters%22;%22—+they%27re+the+ones+built+by+people+who+refuse+to+stop.%22;—+Janani+V%2C+probably+at+2+AM+debugging+a+fine-tune+🌙" alt="Quote"/>
-</picture>
+<!-- Animated typewriter quote — cycles through the full quote line by line -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1500&color=F875AA&center=true&vCenter=true&width=820&lines=%22The+models+that+change+the+world...%22;%22...aren%27t+the+ones+with+the+most+parameters%22;%22—+they%27re+the+ones+built+by+people+who+refuse+to+stop.%22;—+Janani+V%2C+probably+at+2+AM+debugging+a+fine-tune+🌙" alt="Quote I Live By"/>
 
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
