@@ -170,21 +170,21 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> AI Specializations — Currently Building 🔥
+## 📡 AI Learning Journey — Currently Transmitting 🔥
 
 <div align="center">
 
-![LLM Fine-Tuning](https://img.shields.io/badge/🧠_LLM_Fine--Tuning-LoRA_·_QLoRA_·_PEFT_·_RLHF_·_DPO-F875AA?style=for-the-badge)
+![RAG](https://img.shields.io/badge/🔍_RAG_Systems-Retrieval--Augmented_Generation_·_Semantic_Search_·_Hybrid_Retrieval-F875AA?style=for-the-badge)
 
-![RAG Systems](https://img.shields.io/badge/🔍_RAG_Systems-Semantic_Search_·_Vector_Stores_·_Hybrid_Retrieval-F875AA?style=for-the-badge)
+![Agents](https://img.shields.io/badge/🤖_LLM_Agents-Tool_Calling_·_Planning_·_Multi--Agent_Systems-F875AA?style=for-the-badge)
 
-![Agentic AI](https://img.shields.io/badge/🕵️_Agentic_AI-Tool_Calling_·_Multi--Agent_·_LangGraph_·_CrewAI-F875AA?style=for-the-badge)
+![Multimodal](https://img.shields.io/badge/🧠_Multimodal_AI-Vision_+_Language_Fusion-F875AA?style=for-the-badge)
 
-![NLP](https://img.shields.io/badge/💬_NLP_%26_Text_AI-Sentiment_·_NER_·_QA_·_Summarization-F875AA?style=for-the-badge)
+![VectorDB](https://img.shields.io/badge/🗄️_Vector_Databases-FAISS_·_ChromaDB_·_Pinecone-F875AA?style=for-the-badge)
 
-![Computer Vision](https://img.shields.io/badge/👁️_Computer_Vision-Object_Detection_·_YOLO_·_OpenCV_·_ResNet-F875AA?style=for-the-badge)
+![Compression](https://img.shields.io/badge/🔧_Model_Compression-Quantization_·_Pruning_·_QLoRA-F875AA?style=for-the-badge)
 
-![Data Science](https://img.shields.io/badge/📊_Data_Science-EDA_·_Feature_Engineering_·_ML_Pipelines-F875AA?style=for-the-badge)
+![Frameworks](https://img.shields.io/badge/🕵️_Agentic_Frameworks-CrewAI_·_AutoGen_·_LangGraph-F875AA?style=for-the-badge)
 
 </div>
 
