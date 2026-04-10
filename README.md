@@ -55,19 +55,29 @@ class Janani:
 
 <div align="center">
 
-### 🗺️ My AI Journey
+### 📡 AI Learning Journey
 
-| Year | Milestone |
-|:----:|:----------|
-| 2022 | 🌱 Started B.Tech in AI & Data Science |
-| 2024 | 🐍 Python & Data Science Intern — Trios Technologies |
-| 2024 | 📜 Earned ML Specialization (Coursera) & IBM AI Fundamentals |
-| 2024 | 🤖 AI Intern — AICTE Edunet · Built NLP sentiment model (85%+ accuracy) |
-| 2025 | 🔬 Filed Patent — AI-Based Smart Helmet (App No. 202541087414) |
-| 2025 | 🎙️ Built ARIA — Real-time AI Interview Platform with LLaMA + Whisper |
-| 2025 | ⚖️ Built LegalEase AI — LLM-powered Legal Document Analyzer |
-| 2026 | 📖 Research Published — ICNGTS 2026 |
-| 2026 | 🚀 Exploring Agentic AI, Multimodal LLMs & Vector Databases |
+**Currently Learning**
+
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-F875AA?style=flat-square)
+![Agents](https://img.shields.io/badge/LLM%20Agents-Tool%20Calling%20%26%20Planning-F875AA?style=flat-square)
+![Multimodal](https://img.shields.io/badge/Multimodal%20AI-Vision%20%2B%20Language-F875AA?style=flat-square)
+![VectorDB](https://img.shields.io/badge/Vector%20DBs-FAISS%20%C2%B7%20ChromaDB%20%C2%B7%20Pinecone-F875AA?style=flat-square)
+![Quantization](https://img.shields.io/badge/Quantization-Model%20Compression-F875AA?style=flat-square)
+![Agentic](https://img.shields.io/badge/Agentic%20AI-CrewAI%20%C2%B7%20AutoGen-F875AA?style=flat-square)
+
+<br/>
+
+**🤖 AI Specializations**
+
+| | Domain | Focus Areas |
+|:--:|:--|:--|
+| 🧠 | **Generative AI & LLMs** | Fine-tuning, LoRA, QLoRA, Prompt Engineering |
+| 💬 | **NLP & Text AI** | Sentiment Analysis, Text Classification, QA Systems |
+| 👁️ | **Computer Vision** | Object Detection, Image Classification, OpenCV |
+| 📚 | **RAG & Knowledge Systems** | Vector Search, Document QA, Context-Aware AI |
+| 🕵️ | **Agentic AI** | Tool Calling, Multi-Agent Workflows, Autonomous Systems |
+| 📊 | **Data Science** | EDA, Statistical Analysis, ML Pipelines |
 
 </div>
 
