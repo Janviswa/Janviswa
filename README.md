@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=2000&color=F875AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Janani+%F0%9F%91%8B;AI+Engineer+in+the+Making+%F0%9F%A4%96;LLMs+%C2%B7+NLP+%C2%B7+Generative+AI;Code+with+passion.+Build+with+purpose." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F875AA&height=200&section=header&text=Janani%20V&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&descSize=20&animation=fadeIn" />
 
-<br/>
+</div>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1500&color=F875AA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+that+matter+%F0%9F%A7%A0;Fine-tuning+LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI;From+tokens+to+real-world+impact+%F0%9F%9A%80;Patent+Holder+%C2%B7+Published+Researcher+%C2%B7+AI+Engineer" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -18,19 +20,35 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="320"/>
 
-### 🌸 About Me
+### `> whoami`
 
 ```python
-janani = {
-    "degree"    : "B.Tech AI & Data Science (2026)",
-    "focus"     : ["LLMs", "NLP", "Generative AI"],
-    "learning"  : ["Flutter", "Dart", "Full Stack Python"],
-    "interests" : ["AI Research", "Model Fine-Tuning",
-                   "Building real-world AI apps"],
-    "fun_fact"  : "I hold a patent & have a research publication! 🎓"
-}
+class Janani:
+    degree      = "B.Tech AI & Data Science '26"
+    cgpa        = 8.05
+
+    currently_building = [
+        "Real-time AI systems with LLMs",
+        "Fine-tuned models via LoRA / QLoRA",
+        "RAG pipelines & Agentic workflows",
+    ]
+
+    currently_learning = [
+        "Retrieval-Augmented Generation (RAG)",
+        "LLM Agents & Tool Calling",
+        "Multimodal AI (Vision + Language)",
+        "Vector Databases (FAISS, ChromaDB)",
+        "Quantization & Model Compression",
+    ]
+
+    achievements = [
+        "🔬 Patent Holder — AI Smart Helmet",
+        "📖 Research Published — ICNGTS 2026",
+    ]
+
+    motto = "Code with passion. Build with purpose."
 ```
 
 <br clear="right"/>
@@ -39,30 +57,46 @@ janani = {
 
 <div align="center">
 
-### ✨ What I'm Into
-
-| 🤖 Generative AI | 🧠 LLMs & Fine-Tuning | 💬 NLP | 📊 Data Science | 🔬 AI Research |
-|:-:|:-:|:-:|:-:|:-:|
-| Building AI-powered apps from scratch | LoRA, Prompt Engineering, RAG | Text understanding & sentiment | EDA, ML pipelines | Published & Patent holder |
+### 🧠 AI / ML Expertise
 
 </div>
+
+```
+ Generative AI     ████████████████████░   Expert
+ LLM Fine-Tuning   ████████████████░░░░░   Advanced
+ NLP & Text AI     ███████████████████░░   Advanced
+ RAG Pipelines     ██████████████░░░░░░░   Intermediate
+ Computer Vision   ████████████░░░░░░░░░   Intermediate
+ Agentic AI        ██████████░░░░░░░░░░░   Learning 🔥
+```
 
 ---
 
 <div align="center">
 
-### 🛠️ My Tech Palette
+### 🛠️ Tech Stack
+
+**Core AI/ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**LLM & GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Backend & Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -72,9 +106,13 @@ janani = {
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janviswa&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F875AA&icon_color=F875AA" height="165"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janviswa&theme=tokyonight&hide_border=true&ring=F875AA&fire=F875AA&currStreakLabel=F875AA" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=compact&theme=tokyonight&hide_border=true&title_color=F875AA" height="140"/>
 
 <br/><br/>
 
@@ -86,11 +124,15 @@ janani = {
 
 <div align="center">
 
-### 🏅 Achievements
+### 🏅 Achievements & Certifications
 
-🎓 &nbsp; **B.Tech AI & Data Science** — CGPA 8.05 &nbsp;|&nbsp; 📜 &nbsp; **IBM AI Fundamentals** &nbsp;|&nbsp; 🐍 &nbsp; **Python for Everybody — Coursera**
-
-🤖 &nbsp; **ML Specialization — Coursera** &nbsp;|&nbsp; 🔬 &nbsp; **Patent Holder** (AI Smart Helmet) &nbsp;|&nbsp; 📖 &nbsp; **Research Published** (ICNGTS 2026)
+| 🏆 | Achievement |
+|:--:|:------------|
+| 🔬 | **Patent Holder** — AI-Based Smart Helmet · App No. 202541087414, India (2025) |
+| 📖 | **Research Published** — AI-Based Smart Diaper Pod · ICNGTS 2026 · ISBN: 978-93-5679-164-0 |
+| 🤖 | **Machine Learning Specialization** — Coursera (Andrew Ng) |
+| 🧠 | **Artificial Intelligence Fundamentals** — IBM |
+| 🐍 | **Python for Everybody** — Coursera |
 
 </div>
 
@@ -107,5 +149,7 @@ janani = {
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F875AA&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%8C%B8;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F875AA&height=120&section=footer&text=Let's+build+something+amazing!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+
 </div>
