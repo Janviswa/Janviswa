@@ -1,60 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F875AA&height=200&section=header&text=Janani%20V&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&descSize=20&animation=fadeIn" />
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,1a1b27,100,F875AA&height=250&section=header&text=JANANI%20V&fontSize=80&fontColor=F875AA&fontAlignY=40&desc=⟨%20AI%20Engineer%20·%20LLM%20Architect%20·%20GenAI%20Builder%20⟩&descAlignY=62&descSize=18&animation=fadeIn&stroke=F875AA&strokeWidth=2" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1500&color=F875AA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+that+matter+%F0%9F%A7%A0;Fine-tuning+LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI;From+tokens+to+real-world+impact+%F0%9F%9A%80;Patent+Holder+%C2%B7+Published+Researcher+%C2%B7+AI+Engineer" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=1000&color=F875AA&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Building+intelligent+systems+that+actually+matter;%F0%9F%A7%A0+Fine-tuning+LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+NLP;%F0%9F%94%AC+Patent+Holder+%C2%B7+Published+Researcher+%C2%B7+AI+Engineer;%F0%9F%9A%80+From+raw+tokens+%E2%86%92+real-world+impact;%F0%9F%A4%96+if+%28problem%29+%7B+build_ai%28%29%3B+%7D" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jananiv05/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Jan_viswa)
-[![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janviswa)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Janani-V)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F875AA?style=for-the-badge&logo=webflow&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jananiviswa05@gmail.com)
-![Visits](https://komarev.com/ghpvc/?username=Janviswa&style=for-the-badge&color=F875AA&label=PROFILE+VIEWS)
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jananiv05/)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jan_viswa)
+[![GitHub](https://img.shields.io/badge/GitHub-121013.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janviswa)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21F.svg?style=for-the-badge&logoColor=black)](https://huggingface.co/Janani-V)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jananiviswa05@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Janviswa&style=for-the-badge&color=F875AA&label=PROFILE+VIEWS)](https://github.com/Janviswa)
 
 </div>
 
 ---
 
-### `> whoami`
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> `whoami`
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ```python
+#!/usr/bin/env python3
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 class Janani:
-    degree      = "B.Tech AI & Data Science '26"
-    cgpa        = 8.05
+    """
+    AI Engineer | LLM Specialist | GenAI Builder
+    """
 
-    currently_building = [
-        "Real-time AI systems with LLMs",
-        "Fine-tuned models via LoRA / QLoRA",
-        "RAG pipelines & Agentic workflows",
-    ]
+    def __init__(self):
+        self.name         = "Janani V"
+        self.degree       = "B.Tech — AI & Data Science '26"
+        self.cgpa         = 8.05
+        self.location     = "India 🇮🇳"
+        self.pronouns     = "she/her"
+        self.coffee_level = "☕☕☕ critical"
 
-    currently_learning = [
-        "LLM Agents & Tool Calling",
-        "Multimodal AI (Vision + Language)",
-        "Vector Databases (FAISS, ChromaDB, Pinecone)",
-        "Quantization & Model Compression",
-        "Agentic Frameworks (CrewAI, AutoGen)",
-    ]
+    @property
+    def currently_building(self):
+        return [
+            "🤖 Real-time AI systems with LLMs",
+            "🔧 Fine-tuned models via LoRA / QLoRA",
+            "🔍 RAG pipelines & Agentic workflows",
+            "🧪 Multimodal AI experiments",
+        ]
 
-    achievements = [
-        "🔬 Patent Holder — AI Smart Helmet",
-        "📖 Research Published — ICNGTS 2026",
-    ]
+    @property
+    def currently_learning(self):
+        return {
+            "agents"      : ["LLM Agents", "Tool Calling", "Planning"],
+            "multimodal"  : ["Vision + Language Fusion"],
+            "vectordb"    : ["FAISS", "ChromaDB", "Pinecone"],
+            "compression" : ["Quantization", "Model Pruning"],
+            "frameworks"  : ["CrewAI", "AutoGen", "LangGraph"],
+        }
 
-    motto = "Code with passion. Build with purpose."
+    @property
+    def achievements(self):
+        return [
+            "🔬 Patent Holder — AI Smart Helmet",
+            "📖 Research Published — ICNGTS 2026",
+        ]
+
+    def contact(self) -> str:
+        return "jananiviswa05@gmail.com"
+
+    def __repr__(self) -> str:
+        return "Code with passion. Build with purpose. 🚀"
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+me = Janani()
+print(me)  # → Code with passion. Build with purpose. 🚀
 ```
 
 </td>
-<td width="40%" valign="middle" align="center">
+<td width="45%" valign="middle" align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="280"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300" style="border-radius: 20px;"/>
+
+<br/><br/>
+
+<!-- QUICK STATS ROW -->
+<table>
+  <tr>
+    <td align="center"><b>🔬</b><br/>Patent<br/>Holder</td>
+    <td align="center"><b>📖</b><br/>Published<br/>Researcher</td>
+    <td align="center"><b>🤗</b><br/>HuggingFace<br/>Models</td>
+  </tr>
+</table>
 
 </td>
 </tr>
@@ -62,176 +105,296 @@ class Janani:
 
 ---
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🧠 AI / ML Expertise
-
-</div>
-
-```
- Generative AI     ████████████████████░   Expert
- LLM Fine-Tuning   ████████████████░░░░░   Advanced
- NLP & Text AI     ███████████████████░░   Advanced
- RAG Pipelines     ██████████████░░░░░░░   Intermediate
- Computer Vision   ████████████░░░░░░░░░   Intermediate
- Agentic AI        ██████████░░░░░░░░░░░   Learning 🔥
-```
-
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> AI / ML Skill Matrix
 
 <div align="center">
 
-### 📡 AI Learning Journey
-
-**Currently Learning**
-
-![Agents](https://img.shields.io/badge/LLM%20Agents-Tool%20Calling%20%26%20Planning-F875AA?style=flat-square&logoColor=white)
-![Multimodal](https://img.shields.io/badge/Multimodal%20AI-Vision%20%2B%20Language-F875AA?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-F875AA?style=flat-square&logoColor=white)
-![VectorDB](https://img.shields.io/badge/Vector%20DBs-FAISS%20%C2%B7%20ChromaDB%20%C2%B7%20Pinecone-F875AA?style=flat-square&logoColor=white)
-![Quantization](https://img.shields.io/badge/Quantization-Model%20Compression-F875AA?style=flat-square&logoColor=white)
-![Agentic](https://img.shields.io/badge/Agentic%20AI-CrewAI%20%C2%B7%20AutoGen-F875AA?style=flat-square&logoColor=white)
-
-<br/>
-
-**🤖 AI Specializations**
-
-| | Domain | Focus Areas |
-|:--:|:--|:--|
-| 🧠 | **Generative AI & LLMs** | Fine-tuning, LoRA, QLoRA, Prompt Engineering |
-| 💬 | **NLP & Text AI** | Sentiment Analysis, Text Classification, QA Systems |
-| 👁️ | **Computer Vision** | Object Detection, Image Classification, OpenCV |
-| 📚 | **RAG & Knowledge Systems** | Vector Search, Document QA, Context-Aware AI |
-| 🕵️ | **Agentic AI** | Tool Calling, Multi-Agent Workflows, Autonomous Systems |
-| 📊 | **Data Science** | EDA, Statistical Analysis, ML Pipelines |
+| Domain | Proficiency | Level |
+|:--|:--|:--|
+| `Generative AI & LLMs` | `████████████████████` 96% | 🔥 Expert |
+| `NLP & Text Intelligence` | `███████████████████░` 92% | 🔥 Expert |
+| `LLM Fine-Tuning (LoRA/QLoRA)` | `████████████████░░░░` 82% | ⚡ Advanced |
+| `RAG & Knowledge Systems` | `██████████████░░░░░░` 72% | ⚡ Advanced |
+| `Computer Vision` | `████████████░░░░░░░░` 62% | 📈 Intermediate |
+| `Agentic AI & Multi-Agent` | `██████████░░░░░░░░░░` 52% | 🌱 Building 🔥 |
+| `Vector Databases` | `███████████░░░░░░░░░` 56% | 🌱 Building |
+| `Model Compression & Quant` | `████████░░░░░░░░░░░░` 42% | 🌱 Learning |
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Tech Stack
+
 <div align="center">
 
-### 🛠️ Tech Stack
-
-**Core AI/ML**
+### 🧠 Core AI / ML
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21F?style=for-the-badge&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
 
-**LLM & GenAI**
+### 🤖 LLM & GenAI Ecosystem
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_ASR-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3A7CBB?style=for-the-badge&logoColor=white)
+![SpaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![PEFT](https://img.shields.io/badge/PEFT_LoRA-FFD21F?style=for-the-badge&logoColor=black)
+![BitsAndBytes](https://img.shields.io/badge/BitsAndBytes-QLoRA-F875AA?style=for-the-badge&logoColor=white)
 
-**Backend & Infra**
+### ⚙️ Backend, Infra & Dev
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> AI Specializations
+
 <div align="center">
 
-### 🏆 GitHub Trophies
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Janviswa&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
+### 🧠 LLM Fine-Tuning
+```
+LoRA · QLoRA · PEFT
+Instruction Tuning
+RLHF · DPO
+Parameter Efficiency
+Model Merging
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🔍 RAG Systems
+```
+Semantic Search
+Vector Stores
+Chunking Strategies
+Hybrid Retrieval
+Re-ranking & Eval
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🕵️ Agentic AI
+```
+Tool Calling
+Multi-Agent Workflows
+Planning & Reasoning
+CrewAI · AutoGen
+LangGraph Flows
+```
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 💬 NLP & Text AI
+```
+Sentiment Analysis
+Text Classification
+Named Entity Recog.
+Question Answering
+Summarization
+```
+
+</td>
+<td align="center" width="33%">
+
+### 👁️ Computer Vision
+```
+Object Detection
+Image Classification
+OpenCV Pipelines
+YOLO · ResNet
+Feature Extraction
+```
+
+</td>
+<td align="center" width="33%">
+
+### 📊 Data Science
+```
+Exploratory Analysis
+Statistical Modeling
+Feature Engineering
+ML Pipelines
+Data Visualization
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="28"> GitHub Stats
+
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F875AA&icon_color=F875AA" height="160" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Janviswa&theme=tokyonight&hide_border=true&ring=F875AA&fire=F875AA&currStreakLabel=F875AA" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F875AA&icon_color=F875AA&text_color=a9b1d6&bg_color=1a1b27" height="180"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=Janviswa&theme=tokyonight&hide_border=true&ring=F875AA&fire=F875AA&currStreakLabel=F875AA&background=1a1b27&dates=a9b1d6&sideLabels=F875AA" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=compact&theme=tokyonight&hide_border=true&title_color=F875AA" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=donut&theme=tokyonight&hide_border=true&title_color=F875AA&text_color=a9b1d6&bg_color=1a1b27&langs_count=8" height="220"/>
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-### 🐍 Contribution Snake
+<img src="https://github-profile-trophy.vercel.app/?username=Janviswa&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&title_color=F875AA" width="100%"/>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Janviswa&bg_color=1a1b27&color=F875AA&line=F875AA&point=c0caf5&area=true&area_color=F875AA&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💡 LeetCode
+
 <div align="center">
 
-### 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Janviswa&bg_color=1a1b27&color=F875AA&line=F875AA&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Janani_viswa?ext=contest&theme=dark&border=0&radius=20&font=JetBrains%20Mono)](https://leetcode.com/u/Janani_viswa/)
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤗 Hugging Face — `Janani-V`
+
 <div align="center">
 
-### 💡 LeetCode
+[![HuggingFace](https://img.shields.io/badge/🤗_Janani--V_on_HuggingFace-FFD21F?style=for-the-badge&logoColor=black)](https://huggingface.co/Janani-V)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Janani_viswa?ext=contest&theme=dark)](https://leetcode.com/u/Janani_viswa/)
+<br/>
+
+<table>
+<tr>
+<td align="center">🔧</td>
+<td>Fine-tuned LLMs with <b>LoRA & QLoRA</b> — parameter-efficient training on open-source models</td>
+</tr>
+<tr>
+<td align="center">🧪</td>
+<td>Experiments spanning <b>NLP, GenAI, LLM evaluation</b> — tracked, versioned, reproducible</td>
+</tr>
+<tr>
+<td align="center">📦</td>
+<td>Model cards with detailed <b>training configs, hyperparameters & benchmarks</b></td>
+</tr>
+<tr>
+<td align="center">🤝</td>
+<td>Open to collaborations on <b>model fine-tuning, research & AI systems</b></td>
+</tr>
+</table>
+
+> 💬 *"Where my models live rent-free."* 🏠
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 2026 Goals
+
 <div align="center">
 
-### 🤗 Hugging Face — `Janani-V`
-
-[![HuggingFace](https://img.shields.io/badge/Janani--V-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Janani-V)
-
-| 🚀 | What's on my HF profile |
-|:--:|:--|
-| 🔧 | Fine-tuned models using **LoRA & QLoRA** on open-source LLMs |
-| 🧪 | AI experiments across **NLP, GenAI & LLM evaluation** |
-| 📦 | Model cards with detailed training configs & benchmarks |
-| 🤝 | Open to collaborations on model fine-tuning & research |
-
-> *"Where my models live rent-free."* 🏠
+```
+ ◉ Ship 3+ production-ready AI systems ............... [ IN PROGRESS ]
+ ◉ Publish 2nd research paper ........................ [ IN PROGRESS ]
+ ◉ Master multi-agent LLM frameworks ................. [ IN PROGRESS ]
+ ◉ Build & open-source a RAG framework ............... [ PLANNED     ]
+ ◉ Land an AI/ML engineering internship .............. [ PLANNED     ]
+ ◉ Contribute to top open-source AI repos ............ [ PLANNED     ]
+ ◉ Train a model from scratch (not just fine-tune) ... [ DREAMING 🔥 ]
+```
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💬 Random Dev Quote
+
 <div align="center">
-
-### 💬 Sarcastic Dev Quote of the Day
-
-> *"It works on my machine."*
-> — Every developer, always 🙃
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -239,22 +402,33 @@ class Janani:
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Connect & Build
+
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate
+> *Open to AI research collaborations, internships & building impactful things in the LLM / GenAI space.*
 
-> *Open to AI research collaborations, internships & building cool things in the LLM / GenAI space.*
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jananiv05/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jananiv05/)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jananiviswa05@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Janani-V)
+[![HuggingFace](https://img.shields.io/badge/See_My_Models-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Janani-V)
+[![X](https://img.shields.io/badge/Find_Me_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jan_viswa)
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "The best way to predict the future is to build it."   ║
+║                                          — Alan Kay      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F875AA&height=120&section=footer&text=Let's+build+something+amazing!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
-
-</div>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1b27,100,F875AA&height=140&section=footer&text=Let's+build+something+amazing+together!&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
