@@ -18,9 +18,11 @@
 
 ---
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="320"/>
-
 ### `> whoami`
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class Janani:
@@ -49,37 +51,14 @@ class Janani:
     motto = "Code with passion. Build with purpose."
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="middle" align="center">
 
----
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="280"/>
 
-<div align="center">
-
-### 📡 AI Learning Journey
-
-**Currently Learning**
-
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-F875AA?style=flat-square)
-![Agents](https://img.shields.io/badge/LLM%20Agents-Tool%20Calling%20%26%20Planning-F875AA?style=flat-square)
-![Multimodal](https://img.shields.io/badge/Multimodal%20AI-Vision%20%2B%20Language-F875AA?style=flat-square)
-![VectorDB](https://img.shields.io/badge/Vector%20DBs-FAISS%20%C2%B7%20ChromaDB%20%C2%B7%20Pinecone-F875AA?style=flat-square)
-![Quantization](https://img.shields.io/badge/Quantization-Model%20Compression-F875AA?style=flat-square)
-![Agentic](https://img.shields.io/badge/Agentic%20AI-CrewAI%20%C2%B7%20AutoGen-F875AA?style=flat-square)
-
-<br/>
-
-**🤖 AI Specializations**
-
-| | Domain | Focus Areas |
-|:--:|:--|:--|
-| 🧠 | **Generative AI & LLMs** | Fine-tuning, LoRA, QLoRA, Prompt Engineering |
-| 💬 | **NLP & Text AI** | Sentiment Analysis, Text Classification, QA Systems |
-| 👁️ | **Computer Vision** | Object Detection, Image Classification, OpenCV |
-| 📚 | **RAG & Knowledge Systems** | Vector Search, Document QA, Context-Aware AI |
-| 🕵️ | **Agentic AI** | Tool Calling, Multi-Agent Workflows, Autonomous Systems |
-| 📊 | **Data Science** | EDA, Statistical Analysis, ML Pipelines |
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -97,6 +76,36 @@ class Janani:
  Computer Vision   ████████████░░░░░░░░░   Intermediate
  Agentic AI        ██████████░░░░░░░░░░░   Learning 🔥
 ```
+
+---
+
+<div align="center">
+
+### 📡 AI Learning Journey
+
+**Currently Learning**
+
+![Agents](https://img.shields.io/badge/LLM%20Agents-Tool%20Calling%20%26%20Planning-F875AA?style=flat-square&logoColor=white)
+![Multimodal](https://img.shields.io/badge/Multimodal%20AI-Vision%20%2B%20Language-F875AA?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-F875AA?style=flat-square&logoColor=white)
+![VectorDB](https://img.shields.io/badge/Vector%20DBs-FAISS%20%C2%B7%20ChromaDB%20%C2%B7%20Pinecone-F875AA?style=flat-square&logoColor=white)
+![Quantization](https://img.shields.io/badge/Quantization-Model%20Compression-F875AA?style=flat-square&logoColor=white)
+![Agentic](https://img.shields.io/badge/Agentic%20AI-CrewAI%20%C2%B7%20AutoGen-F875AA?style=flat-square&logoColor=white)
+
+<br/>
+
+**🤖 AI Specializations**
+
+| | Domain | Focus Areas |
+|:--:|:--|:--|
+| 🧠 | **Generative AI & LLMs** | Fine-tuning, LoRA, QLoRA, Prompt Engineering |
+| 💬 | **NLP & Text AI** | Sentiment Analysis, Text Classification, QA Systems |
+| 👁️ | **Computer Vision** | Object Detection, Image Classification, OpenCV |
+| 📚 | **RAG & Knowledge Systems** | Vector Search, Document QA, Context-Aware AI |
+| 🕵️ | **Agentic AI** | Tool Calling, Multi-Agent Workflows, Autonomous Systems |
+| 📊 | **Data Science** | EDA, Statistical Analysis, ML Pipelines |
+
+</div>
 
 ---
 
@@ -142,7 +151,7 @@ class Janani:
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Janviswa&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Janviswa&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -152,13 +161,13 @@ class Janani:
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F875AA&icon_color=F875AA" height="165"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=Janviswa&theme=tokyonight&hide_border=true&ring=F875AA&fire=F875AA&currStreakLabel=F875AA" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F875AA&icon_color=F875AA" height="160" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=Janviswa&theme=tokyonight&hide_border=true&ring=F875AA&fire=F875AA&currStreakLabel=F875AA" height="160" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=compact&theme=tokyonight&hide_border=true&title_color=F875AA" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=compact&theme=tokyonight&hide_border=true&title_color=F875AA" height="140" />
 
 </div>
 
@@ -171,7 +180,7 @@ class Janani:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -200,11 +209,18 @@ class Janani:
 
 <div align="center">
 
-### 🤗 Hugging Face
+### 🤗 Hugging Face — `Janani-V`
 
 [![HuggingFace](https://img.shields.io/badge/Janani--V-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Janani-V)
 
-> *Explore my fine-tuned models, datasets & AI experiments on Hugging Face!*
+| 🚀 | What's on my HF profile |
+|:--:|:--|
+| 🔧 | Fine-tuned models using **LoRA & QLoRA** on open-source LLMs |
+| 🧪 | AI experiments across **NLP, GenAI & LLM evaluation** |
+| 📦 | Model cards with detailed training configs & benchmarks |
+| 🤝 | Open to collaborations on model fine-tuning & research |
+
+> *"Where my models live rent-free."* 🏠
 
 </div>
 
@@ -212,7 +228,10 @@ class Janani:
 
 <div align="center">
 
-### 💬 Dev Quote of the Day
+### 💬 Sarcastic Dev Quote of the Day
+
+> *"It works on my machine."*
+> — Every developer, always 🙃
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
