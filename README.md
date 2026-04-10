@@ -121,6 +121,16 @@ class Janani:
 
 <div align="center">
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Janviswa&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Janviswa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F875AA&icon_color=F875AA&bg_color=1a1b27" height="160"/>
@@ -131,10 +141,6 @@ class Janani:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janviswa&layout=compact&theme=tokyonight&hide_border=true&title_color=F875AA&bg_color=1a1b27" height="145"/>
 
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Janviswa&bg_color=1a1b27&color=F875AA&line=F875AA&point=ffffff&area=true&area_color=F875AA&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
@@ -143,11 +149,23 @@ class Janani:
 
 ## 🐍 Contribution Snake
 
+> ⚙️ *Set up the GitHub Action below to activate the snake animation!*
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janviswa/Janviswa/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Janviswa/Janviswa/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Janviswa/Janviswa/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Janviswa/Janviswa/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Janviswa&bg_color=1a1b27&color=F875AA&line=F875AA&point=ffffff&area=true&area_color=F875AA&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -158,6 +176,30 @@ class Janani:
 ## 💡 LeetCode
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Janani_viswa?ext=contest&theme=dark)](https://leetcode.com/u/Janani_viswa/)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Dev Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+best+way+to+predict+the+future+is+to+invent+it&author=Alan+Kay)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate
+
+> *I'm always open to interesting AI projects, research collaborations, and internship opportunities.*
+> *If you're working on something cool in the LLM / GenAI space — let's talk!*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jananiv05/)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jananiviswa05@gmail.com)
 
 </div>
 
