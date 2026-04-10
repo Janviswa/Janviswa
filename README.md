@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Janani%20V&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&descSize=22&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:2d1b69&height=220&section=header&text=Janani%20V&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&descSize=22&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1500&color=F875AA&center=true&vCenter=true&width=750&lines=Building+intelligent+systems+that+matter+%F0%9F%A7%A0;Fine-tuning+LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI;From+tokens+to+real-world+impact+%F0%9F%9A%80;Patent+Holder+%C2%B7+Published+Researcher+%C2%B7+AI+Engineer" alt="Typing SVG" />
 
@@ -11,7 +11,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janviswa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F875AA?style=for-the-badge&logo=webflow&logoColor=white)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jananiviswa05@gmail.com)
-![Visits](https://komarev.com/ghpvc/?username=Janviswa&style=for-the-badge&color=F875AA&label=PROFILE+VIEWS)
 
 </div>
 
@@ -21,48 +20,55 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
 ```python
 class Janani:
-    degree = "B.Tech AI & Data Science '26"
-    cgpa   = 8.05
-    based  = "Tamil Nadu, India 🇮🇳"
-    role   = "Aspiring AI Engineer"
+    degree  = "B.Tech AI & Data Science '26"
+    cgpa    = 8.05
+    based   = "Tamil Nadu, India 🇮🇳"
+    role    = "Aspiring AI Engineer"
     open_to = ["Collaborations", "Research", "Internships"]
 ```
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-```python
-    currently_building = [
-        "Real-time AI systems with LLMs",
-        "Fine-tuned models via LoRA / QLoRA",
-        "RAG pipelines & Agentic workflows",
-    ]
-    currently_learning = [
-        "LLM Agents & Tool Calling",
-        "Multimodal AI (Vision + Language)",
-        "Vector DBs — FAISS, ChromaDB, Pinecone",
-        "Quantization & Model Compression",
-        "Agentic AI Frameworks (CrewAI, AutoGen)",
-    ]
-```
+🔨 **Currently Building**
+
+&nbsp;&nbsp;&nbsp;`→` Real-time AI systems with LLMs<br/>
+&nbsp;&nbsp;&nbsp;`→` Fine-tuned models via LoRA / QLoRA<br/>
+&nbsp;&nbsp;&nbsp;`→` RAG pipelines & Agentic workflows
+
+<br/>
+
+📡 **Currently Learning**
+
+&nbsp;&nbsp;&nbsp;`→` LLM Agents & Tool Calling<br/>
+&nbsp;&nbsp;&nbsp;`→` Multimodal AI — Vision + Language<br/>
+&nbsp;&nbsp;&nbsp;`→` Vector DBs — FAISS · ChromaDB · Pinecone<br/>
+&nbsp;&nbsp;&nbsp;`→` Quantization & Model Compression<br/>
+&nbsp;&nbsp;&nbsp;`→` Agentic Frameworks — CrewAI · AutoGen
+
+<br/>
+
+⚡ **Highlights**
+
+&nbsp;&nbsp;&nbsp;`→` 🔬 Patent Holder — AI Smart Helmet · India 2025<br/>
+&nbsp;&nbsp;&nbsp;`→` 📖 Published Researcher — ICNGTS 2026<br/>
+&nbsp;&nbsp;&nbsp;`→` 💬 *"Code with passion. Build with purpose."*
+
+</td>
+<td width="42%" valign="middle" align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="270" style="border-radius:12px"/>
+
+<br/><br/>
+
+![Visits](https://komarev.com/ghpvc/?username=Janviswa&style=for-the-badge&color=7B2D8B&label=PROFILE+VIEWS)
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-| 🔬 Patent Holder | 📖 Published Researcher | 💬 Motto |
-|:---:|:---:|:---:|
-| AI Smart Helmet · India 2025 | ICNGTS 2026 | *"Code with passion. Build with purpose."* |
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjNjByajNqd3hqd2JiYXE4bXEzenZuOTZlb2EwdWxsMTB1YmpxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="260"/>
-
-</div>
 
 ---
 
@@ -207,6 +213,6 @@ class Janani:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Let%27s+build+something+amazing!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0221&height=130&section=footer&text=Let%27s+build+something+amazing!+%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
