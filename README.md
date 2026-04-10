@@ -174,17 +174,7 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-![LLM Fine-Tuning](https://img.shields.io/badge/🧠_LLM_Fine--Tuning-LoRA_·_QLoRA_·_PEFT_·_RLHF_·_DPO-F875AA?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/🔍_RAG_Systems-Semantic_Search_·_Vector_Stores_·_Hybrid_Retrieval-F875AA?style=for-the-badge)
-
-![Agentic AI](https://img.shields.io/badge/🕵️_Agentic_AI-Tool_Calling_·_Multi--Agent_·_LangGraph_·_CrewAI-F875AA?style=for-the-badge)
-
-![NLP](https://img.shields.io/badge/💬_NLP_&_Text_AI-Sentiment_·_NER_·_QA_·_Summarization-F875AA?style=for-the-badge)
-
-![Vision](https://img.shields.io/badge/👁️_Computer_Vision-Object_Detection_·_YOLO_·_OpenCV_·_ResNet-F875AA?style=for-the-badge)
-
-![Data Science](https://img.shields.io/badge/📊_Data_Science-EDA_·_Feature_Engineering_·_ML_Pipelines-F875AA?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=F875AA&center=true&vCenter=true&width=750&lines=🧠+LLM+Fine-Tuning+%7C+LoRA+·+QLoRA+·+PEFT+·+RLHF+·+DPO;🔍+RAG+Systems+%7C+Semantic+Search+·+Vector+Stores;🕵️+Agentic+AI+%7C+Tool+Calling+·+LangGraph+·+CrewAI;💬+NLP+%26+Text+AI+%7C+Sentiment+·+NER+·+QA;👁️+Computer+Vision+%7C+YOLO+·+OpenCV+·+ResNet;📊+Data+Science+%7C+EDA+·+Feature+Engineering" alt="AI Specializations"/>
 
 </div>
 
@@ -284,7 +274,7 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=400&color=F875AA&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=220&lines=🚀+Ship+3%2B+production-ready+AI+systems+............+[+IN+PROGRESS+];📖+Publish+2nd+research+paper+........................+[+IN+PROGRESS+];🤖+Master+multi-agent+LLM+frameworks+.................+[+IN+PROGRESS+];🔧+Build+%26+open-source+a+RAG+framework+...............+[+PLANNED+%F0%9F%93%85+];🎓+Land+an+AI%2FML+engineering+internship+................+[+PLANNED+%F0%9F%93%85+];⭐+Contribute+to+top+open-source+AI+repos+..............+[+PLANNED+%F0%9F%93%85+];🧠+Train+a+model+from+scratch+(not+just+fine-tune)+......+[+DREAMING+🔥+]" alt="2026 Goals"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2000&pause=500&color=F875AA&center=true&vCenter=true&width=750&lines=🚀+Ship+3%2B+production-ready+AI+systems+%5BIN+PROGRESS%5D;📖+Publish+2nd+research+paper+%5BIN+PROGRESS%5D;🤖+Master+multi-agent+LLM+frameworks+%5BIN+PROGRESS%5D;🔧+Build+%26+open-source+a+RAG+framework+%5BPLANNED%5D;🎓+Land+an+AI%2FML+internship+%5BPLANNED%5D;🧠+Train+a+model+from+scratch+%5BDREAMING+🔥%5D" alt="2026 Goals"/>
 
 </div>
 
@@ -295,12 +285,11 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-> *"The models that change the world aren't the ones with the most parameters — they're the ones built by people who refuse to stop."*
->
-> — **Janani V**, probably at 2 AM debugging a fine-tune 🌙
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=2000&color=F875AA&center=true&vCenter=true&width=800&lines=%22The+models+that+change+the+world+aren%27t+the+ones+with+the+most+parameters%22;%22—+they%27re+the+ones+built+by+people+who+refuse+to+stop.%22;—+Janani+V%2C+probably+at+2+AM+debugging+a+fine-tune+🌙" alt="Quote"/>
+</picture>
 
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
