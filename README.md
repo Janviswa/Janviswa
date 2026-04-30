@@ -174,46 +174,17 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🔍-RAG_SYSTEMS-161b22?style=for-the-badge&labelColor=161b22&color=F875AA"/>
-<br/><sub><b>Retrieval-Augmented Generation<br/>Semantic Search · Hybrid Retrieval</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🤖-LLM_AGENTS-161b22?style=for-the-badge&labelColor=161b22&color=F875AA"/>
-<br/><sub><b>Tool Calling · Planning<br/>Multi-Agent Systems</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🧠-MULTIMODAL_AI-161b22?style=for-the-badge&labelColor=161b22&color=F875AA"/>
-<br/><sub><b>Vision + Language Fusion</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🗄️-VECTOR_DATABASES-161b22?style=for-the-badge&labelColor=161b22&color=F875AA"/>
-<br/><sub><b>FAISS · ChromaDB · Pinecone</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🔧-MODEL_COMPRESSION-161b22?style=for-the-badge&labelColor=161b22&color=F875AA"/>
-<br/><sub><b>Quantization · Pruning · QLoRA</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🕵️-AGENTIC_FRAMEWORKS-161b22?style=for-the-badge&labelColor=161b22&color=F875AA"/>
-<br/><sub><b>CrewAI · AutoGen · LangGraph</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/⛓️-LANGCHAIN_&_LANGGRAPH-161b22?style=for-the-badge&labelColor=161b22&color=F875AA"/>
-<br/><sub><b>Chains · Memory · Tools<br/>Graph-Based Agent Flows</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🔬-FINE_TUNING-161b22?style=for-the-badge&labelColor=161b22&color=F875AA"/>
-<br/><sub><b>LoRA · QLoRA · PEFT</b></sub>
-</td>
-</tr>
-</table>
+| | Topic | Details |
+|:--:|:--|:--|
+| 🔍 | **RAG SYSTEMS** | Retrieval-Augmented Generation · Semantic Search · Hybrid Retrieval |
+| 🤖 | **LLM AGENTS** | Tool Calling · Planning · Multi-Agent Systems |
+| 🧠 | **MULTIMODAL AI** | Vision + Language Fusion |
+| 🗄️ | **VECTOR DATABASES** | FAISS · ChromaDB · Pinecone |
+| 🔧 | **MODEL COMPRESSION** | Quantization · Pruning · QLoRA |
+| 🕵️ | **AGENTIC FRAMEWORKS** | CrewAI · AutoGen · LangGraph |
+| ⛓️ | **LANGCHAIN & LANGGRAPH** | Chains · Memory · Tools · Graph-Based Agent Flows |
 
-</div> 
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="28"> GitHub Stats
