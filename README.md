@@ -172,91 +172,134 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 ## 📡 AI Learning Journey — Currently Transmitting 🔥
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>AI Learning Journey</title>
-<style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{background:#0d1117;font-family:'Segoe UI',sans-serif;padding:28px 24px}
-.lj-title{color:#fff;font-size:20px;font-weight:700;margin:0 0 22px;display:flex;align-items:center;gap:8px}
-.lj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:12px}
-.lj-card{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:14px 15px;position:relative;overflow:hidden;cursor:default;transition:border-color .3s}
-.lj-card:hover{border-color:#F875AA88}
-.lj-card::before{content:'';position:absolute;top:0;left:-60%;width:60%;height:2.5px;background:linear-gradient(90deg,transparent,#F875AA,transparent);animation:scan 2.8s ease-in-out infinite}
-.lj-card:nth-child(1)::before{animation-delay:0s}
-.lj-card:nth-child(2)::before{animation-delay:.35s}
-.lj-card:nth-child(3)::before{animation-delay:.7s}
-.lj-card:nth-child(4)::before{animation-delay:1.05s}
-.lj-card:nth-child(5)::before{animation-delay:1.4s}
-.lj-card:nth-child(6)::before{animation-delay:1.75s}
-.lj-card:nth-child(7)::before{animation-delay:2.1s}
-@keyframes scan{0%{left:-60%}100%{left:160%}}
-.lj-dot{width:7px;height:7px;border-radius:50%;background:#F875AA;display:block;margin-bottom:10px;animation:pdot 1.5s ease-in-out infinite}
-.lj-card:nth-child(2) .lj-dot{animation-delay:.2s}
-.lj-card:nth-child(3) .lj-dot{animation-delay:.4s}
-.lj-card:nth-child(4) .lj-dot{animation-delay:.6s}
-.lj-card:nth-child(5) .lj-dot{animation-delay:.8s}
-.lj-card:nth-child(6) .lj-dot{animation-delay:1s}
-.lj-card:nth-child(7) .lj-dot{animation-delay:1.2s}
-@keyframes pdot{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.3;transform:scale(.6)}}
-.lj-icon{font-size:22px;margin-bottom:8px;display:block}
-.lj-name{font-size:11px;font-weight:700;color:#F875AA;letter-spacing:.07em;margin-bottom:7px}
-.lj-sub{font-size:10.5px;color:#8b949e;line-height:1.65}
-</style>
-</head>
-<body>
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    .bg { fill: #0d1117; }
+    .card { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 10; }
+    .title-text { font-family: 'Segoe UI', sans-serif; font-size: 18px; font-weight: 700; fill: #ffffff; }
+    .card-name { font-family: 'Segoe UI', sans-serif; font-size: 10px; font-weight: 700; fill: #F875AA; letter-spacing: 1px; }
+    .card-sub { font-family: 'Segoe UI', sans-serif; font-size: 9px; fill: #8b949e; }
+    .icon { font-family: 'Segoe UI Emoji', sans-serif; font-size: 18px; }
+    .dot { fill: #F875AA; }
+    .scan { fill: none; stroke: #F875AA; stroke-width: 2; opacity: 0.8; }
 
-<div class="lj-title">📡 AI Learning Journey — Currently Transmitting 🔥</div>
-<div class="lj-grid">
-  <div class="lj-card">
-    <span class="lj-dot"></span>
-    <span class="lj-icon">🔍</span>
-    <div class="lj-name">RAG SYSTEMS</div>
-    <div class="lj-sub">Retrieval-Augmented Generation · Semantic Search · Hybrid Retrieval</div>
-  </div>
-  <div class="lj-card">
-    <span class="lj-dot"></span>
-    <span class="lj-icon">🤖</span>
-    <div class="lj-name">LLM AGENTS</div>
-    <div class="lj-sub">Tool Calling · Planning · Multi-Agent Systems</div>
-  </div>
-  <div class="lj-card">
-    <span class="lj-dot"></span>
-    <span class="lj-icon">🧠</span>
-    <div class="lj-name">MULTIMODAL AI</div>
-    <div class="lj-sub">Vision + Language Fusion</div>
-  </div>
-  <div class="lj-card">
-    <span class="lj-dot"></span>
-    <span class="lj-icon">🗄️</span>
-    <div class="lj-name">VECTOR DATABASES</div>
-    <div class="lj-sub">FAISS · ChromaDB · Pinecone</div>
-  </div>
-  <div class="lj-card">
-    <span class="lj-dot"></span>
-    <span class="lj-icon">🔧</span>
-    <div class="lj-name">MODEL COMPRESSION</div>
-    <div class="lj-sub">Quantization · Pruning · QLoRA</div>
-  </div>
-  <div class="lj-card">
-    <span class="lj-dot"></span>
-    <span class="lj-icon">🕵️</span>
-    <div class="lj-name">AGENTIC FRAMEWORKS</div>
-    <div class="lj-sub">CrewAI · AutoGen · LangGraph</div>
-  </div>
-  <div class="lj-card">
-    <span class="lj-dot"></span>
-    <span class="lj-icon">⛓️</span>
-    <div class="lj-name">LANGCHAIN & LANGGRAPH</div>
-    <div class="lj-sub">Chains · Memory · Tools · Graph-Based Agent Flows</div>
-  </div>
-</div>
+    .dot1 { animation: pulse 1.5s ease-in-out infinite; }
+    .dot2 { animation: pulse 1.5s ease-in-out 0.2s infinite; }
+    .dot3 { animation: pulse 1.5s ease-in-out 0.4s infinite; }
+    .dot4 { animation: pulse 1.5s ease-in-out 0.6s infinite; }
+    .dot5 { animation: pulse 1.5s ease-in-out 0.8s infinite; }
+    .dot6 { animation: pulse 1.5s ease-in-out 1.0s infinite; }
+    .dot7 { animation: pulse 1.5s ease-in-out 1.2s infinite; }
 
-</body>
-</html>
+    .scan1 { animation: scan 2.8s linear infinite 0.0s; }
+    .scan2 { animation: scan 2.8s linear infinite 0.4s; }
+    .scan3 { animation: scan 2.8s linear infinite 0.8s; }
+    .scan4 { animation: scan 2.8s linear infinite 1.1s; }
+    .scan5 { animation: scan 2.8s linear infinite 1.4s; }
+    .scan6 { animation: scan 2.8s linear infinite 1.8s; }
+    .scan7 { animation: scan 2.8s linear infinite 2.1s; }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; r: 4; }
+      50% { opacity: 0.3; r: 2.5; }
+    }
+    @keyframes scan {
+      0%   { transform: translateX(-110px); opacity: 0; }
+      10%  { opacity: 1; }
+      90%  { opacity: 1; }
+      100% { transform: translateX(110px); opacity: 0; }
+    }
+  </style>
+</defs>
+
+<!-- Background -->
+<rect width="800" height="420" rx="12" class="bg"/>
+
+<!-- Title -->
+<text x="24" y="38" class="title-text">📡 AI Learning Journey — Currently Transmitting 🔥</text>
+
+<!-- ROW 1 -->
+
+<!-- Card 1: RAG SYSTEMS -->
+<g transform="translate(16, 56)">
+  <rect width="176" height="110" rx="10" class="card"/>
+  <clipPath id="c1"><rect width="176" height="3" rx="1"/></clipPath>
+  <line x1="0" y1="1.5" x2="176" y2="1.5" class="scan scan1" clip-path="url(#c1)" stroke-width="2.5"/>
+  <circle cx="14" cy="18" r="4" class="dot dot1"/>
+  <text x="14" y="44" class="icon">🔍</text>
+  <text x="14" y="64" class="card-name">RAG SYSTEMS</text>
+  <text x="14" y="79" class="card-sub">Retrieval-Augmented</text>
+  <text x="14" y="91" class="card-sub">Generation · Semantic</text>
+  <text x="14" y="103" class="card-sub">Search · Hybrid Retrieval</text>
+</g>
+
+<!-- Card 2: LLM AGENTS -->
+<g transform="translate(204, 56)">
+  <rect width="176" height="110" rx="10" class="card"/>
+  <line x1="0" y1="1.5" x2="176" y2="1.5" class="scan scan2" stroke-width="2.5"/>
+  <circle cx="14" cy="18" r="4" class="dot dot2"/>
+  <text x="14" y="44" class="icon">🤖</text>
+  <text x="14" y="64" class="card-name">LLM AGENTS</text>
+  <text x="14" y="79" class="card-sub">Tool Calling · Planning</text>
+  <text x="14" y="91" class="card-sub">· Multi-Agent Systems</text>
+</g>
+
+<!-- Card 3: MULTIMODAL AI -->
+<g transform="translate(392, 56)">
+  <rect width="176" height="110" rx="10" class="card"/>
+  <line x1="0" y1="1.5" x2="176" y2="1.5" class="scan scan3" stroke-width="2.5"/>
+  <circle cx="14" cy="18" r="4" class="dot dot3"/>
+  <text x="14" y="44" class="icon">🧠</text>
+  <text x="14" y="64" class="card-name">MULTIMODAL AI</text>
+  <text x="14" y="79" class="card-sub">Vision + Language Fusion</text>
+</g>
+
+<!-- Card 4: VECTOR DATABASES -->
+<g transform="translate(580, 56)">
+  <rect width="204" height="110" rx="10" class="card"/>
+  <line x1="0" y1="1.5" x2="204" y2="1.5" class="scan scan4" stroke-width="2.5"/>
+  <circle cx="14" cy="18" r="4" class="dot dot4"/>
+  <text x="14" y="44" class="icon">🗄️</text>
+  <text x="14" y="64" class="card-name">VECTOR DATABASES</text>
+  <text x="14" y="79" class="card-sub">FAISS · ChromaDB · Pinecone</text>
+</g>
+
+<!-- ROW 2 -->
+
+<!-- Card 5: MODEL COMPRESSION -->
+<g transform="translate(16, 182)">
+  <rect width="176" height="110" rx="10" class="card"/>
+  <line x1="0" y1="1.5" x2="176" y2="1.5" class="scan scan5" stroke-width="2.5"/>
+  <circle cx="14" cy="18" r="4" class="dot dot5"/>
+  <text x="14" y="44" class="icon">🔧</text>
+  <text x="14" y="64" class="card-name">MODEL COMPRESSION</text>
+  <text x="14" y="79" class="card-sub">Quantization · Pruning</text>
+  <text x="14" y="91" class="card-sub">· QLoRA</text>
+</g>
+
+<!-- Card 6: AGENTIC FRAMEWORKS -->
+<g transform="translate(204, 182)">
+  <rect width="176" height="110" rx="10" class="card"/>
+  <line x1="0" y1="1.5" x2="176" y2="1.5" class="scan scan6" stroke-width="2.5"/>
+  <circle cx="14" cy="18" r="4" class="dot dot6"/>
+  <text x="14" y="44" class="icon">🕵️</text>
+  <text x="14" y="64" class="card-name">AGENTIC FRAMEWORKS</text>
+  <text x="14" y="79" class="card-sub">CrewAI · AutoGen</text>
+  <text x="14" y="91" class="card-sub">· LangGraph</text>
+</g>
+
+<!-- Card 7: LANGCHAIN & LANGGRAPH -->
+<g transform="translate(392, 182)">
+  <rect width="392" height="110" rx="10" class="card"/>
+  <line x1="0" y1="1.5" x2="392" y2="1.5" class="scan scan7" stroke-width="2.5"/>
+  <circle cx="14" cy="18" r="4" class="dot dot7"/>
+  <text x="14" y="44" class="icon">⛓️</text>
+  <text x="14" y="64" class="card-name">LANGCHAIN &amp; LANGGRAPH</text>
+  <text x="14" y="79" class="card-sub">Chains · Memory · Tools · Graph-Based Agent Flows</text>
+</g>
+
+</svg>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
