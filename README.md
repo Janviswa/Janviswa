@@ -107,14 +107,15 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 | Domain | Proficiency | Level |
 |:--|:--|:--|
-| `Generative AI & LLMs` | `████████████████████` 96% | 🔥 Expert |
-| `NLP & Text Intelligence` | `███████████████████░` 92% | 🔥 Expert |
-| `LLM Fine-Tuning (LoRA/QLoRA)` | `████████████████░░░░` 82% | ⚡ Advanced |
-| `RAG & Knowledge Systems` | `██████████████░░░░░░` 72% | ⚡ Advanced |
-| `Computer Vision` | `████████████░░░░░░░░` 62% | 📈 Intermediate |
-| `Agentic AI & Multi-Agent` | `██████████░░░░░░░░░░` 52% | 🌱 Building 🔥 |
-| `Vector Databases` | `███████████░░░░░░░░░` 56% | 🌱 Building |
-| `Model Compression & Quant` | `████████░░░░░░░░░░░░` 42% | 🌱 Learning |
+| `NLP & Text Intelligence` | `████████████████████` 95% | 🔥 Expert |
+| `Computer Vision` | `███████████████████░` 92% | 🔥 Expert |
+| `Generative AI & LLMs` | `██████████████████░░` 88% | ⚡ Advanced |
+| `RAG & Knowledge Systems` | `█████████████░░░░░░░` 68% | ⚡ Advanced |
+| `Vector Databases` | `█████████████░░░░░░░` 65% | ⚡ Advanced |
+| `LLM Fine-Tuning (LoRA/QLoRA)` | `██████████░░░░░░░░░░` 50% | 🌱 Building |
+| `Agentic AI & Multi-Agent` | `████████░░░░░░░░░░░░` 45% | 🌱 Building 🔥 |
+| `Model Compression & Quant` | `████████░░░░░░░░░░░░` 45% | 🌱 Learning |
+| `LangChain & LangGraph` | `████████░░░░░░░░░░░░` 45% | 🌱 Learning 🔥 |
 
 </div>
 
