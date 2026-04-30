@@ -172,72 +172,91 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 ## 📡 AI Learning Journey — Currently Transmitting 🔥
 
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>AI Learning Journey</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0d1117;font-family:'Segoe UI',sans-serif;padding:28px 24px}
+.lj-title{color:#fff;font-size:20px;font-weight:700;margin:0 0 22px;display:flex;align-items:center;gap:8px}
+.lj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:12px}
+.lj-card{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:14px 15px;position:relative;overflow:hidden;cursor:default;transition:border-color .3s}
+.lj-card:hover{border-color:#F875AA88}
+.lj-card::before{content:'';position:absolute;top:0;left:-60%;width:60%;height:2.5px;background:linear-gradient(90deg,transparent,#F875AA,transparent);animation:scan 2.8s ease-in-out infinite}
+.lj-card:nth-child(1)::before{animation-delay:0s}
+.lj-card:nth-child(2)::before{animation-delay:.35s}
+.lj-card:nth-child(3)::before{animation-delay:.7s}
+.lj-card:nth-child(4)::before{animation-delay:1.05s}
+.lj-card:nth-child(5)::before{animation-delay:1.4s}
+.lj-card:nth-child(6)::before{animation-delay:1.75s}
+.lj-card:nth-child(7)::before{animation-delay:2.1s}
+@keyframes scan{0%{left:-60%}100%{left:160%}}
+.lj-dot{width:7px;height:7px;border-radius:50%;background:#F875AA;display:block;margin-bottom:10px;animation:pdot 1.5s ease-in-out infinite}
+.lj-card:nth-child(2) .lj-dot{animation-delay:.2s}
+.lj-card:nth-child(3) .lj-dot{animation-delay:.4s}
+.lj-card:nth-child(4) .lj-dot{animation-delay:.6s}
+.lj-card:nth-child(5) .lj-dot{animation-delay:.8s}
+.lj-card:nth-child(6) .lj-dot{animation-delay:1s}
+.lj-card:nth-child(7) .lj-dot{animation-delay:1.2s}
+@keyframes pdot{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.3;transform:scale(.6)}}
+.lj-icon{font-size:22px;margin-bottom:8px;display:block}
+.lj-name{font-size:11px;font-weight:700;color:#F875AA;letter-spacing:.07em;margin-bottom:7px}
+.lj-sub{font-size:10.5px;color:#8b949e;line-height:1.65}
+</style>
+</head>
+<body>
 
-<table>
-<tr>
-<td align="center" width="200">
-
-**🔍 RAG SYSTEMS**
-
-![](https://img.shields.io/badge/Retrieval-F875AA?style=flat-square) ![](https://img.shields.io/badge/Semantic_Search-F875AA?style=flat-square) ![](https://img.shields.io/badge/Hybrid_Retrieval-F875AA?style=flat-square)
-
-</td>
-<td align="center" width="200">
-
-**🤖 LLM AGENTS**
-
-![](https://img.shields.io/badge/Tool_Calling-F875AA?style=flat-square) ![](https://img.shields.io/badge/Planning-F875AA?style=flat-square) ![](https://img.shields.io/badge/Multi--Agent-F875AA?style=flat-square)
-
-</td>
-<td align="center" width="200">
-
-**🧠 MULTIMODAL AI**
-
-![](https://img.shields.io/badge/Vision_+_Language-F875AA?style=flat-square) ![](https://img.shields.io/badge/Fusion-F875AA?style=flat-square)
-
-</td>
-<td align="center" width="200">
-
-**🗄️ VECTOR DATABASES**
-
-![](https://img.shields.io/badge/FAISS-F875AA?style=flat-square) ![](https://img.shields.io/badge/ChromaDB-F875AA?style=flat-square) ![](https://img.shields.io/badge/Pinecone-F875AA?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-
-**🔧 MODEL COMPRESSION**
-
-![](https://img.shields.io/badge/Quantization-F875AA?style=flat-square) ![](https://img.shields.io/badge/Pruning-F875AA?style=flat-square) ![](https://img.shields.io/badge/QLoRA-F875AA?style=flat-square)
-
-</td>
-<td align="center" width="200">
-
-**🕵️ AGENTIC FRAMEWORKS**
-
-![](https://img.shields.io/badge/CrewAI-F875AA?style=flat-square) ![](https://img.shields.io/badge/AutoGen-F875AA?style=flat-square) ![](https://img.shields.io/badge/LangGraph-F875AA?style=flat-square)
-
-</td>
-<td align="center" width="200">
-
-**⛓️ LANGCHAIN & LANGGRAPH**
-
-![](https://img.shields.io/badge/Chains-F875AA?style=flat-square) ![](https://img.shields.io/badge/Memory-F875AA?style=flat-square) ![](https://img.shields.io/badge/Tools-F875AA?style=flat-square) ![](https://img.shields.io/badge/Graph_Flows-F875AA?style=flat-square)
-
-</td>
-<td align="center" width="200">
-
-**🧪 FINE-TUNING**
-
-![](https://img.shields.io/badge/LoRA-F875AA?style=flat-square) ![](https://img.shields.io/badge/QLoRA-F875AA?style=flat-square) ![](https://img.shields.io/badge/PEFT-F875AA?style=flat-square)
-
-</td>
-</tr>
-</table>
-
+<div class="lj-title">📡 AI Learning Journey — Currently Transmitting 🔥</div>
+<div class="lj-grid">
+  <div class="lj-card">
+    <span class="lj-dot"></span>
+    <span class="lj-icon">🔍</span>
+    <div class="lj-name">RAG SYSTEMS</div>
+    <div class="lj-sub">Retrieval-Augmented Generation · Semantic Search · Hybrid Retrieval</div>
+  </div>
+  <div class="lj-card">
+    <span class="lj-dot"></span>
+    <span class="lj-icon">🤖</span>
+    <div class="lj-name">LLM AGENTS</div>
+    <div class="lj-sub">Tool Calling · Planning · Multi-Agent Systems</div>
+  </div>
+  <div class="lj-card">
+    <span class="lj-dot"></span>
+    <span class="lj-icon">🧠</span>
+    <div class="lj-name">MULTIMODAL AI</div>
+    <div class="lj-sub">Vision + Language Fusion</div>
+  </div>
+  <div class="lj-card">
+    <span class="lj-dot"></span>
+    <span class="lj-icon">🗄️</span>
+    <div class="lj-name">VECTOR DATABASES</div>
+    <div class="lj-sub">FAISS · ChromaDB · Pinecone</div>
+  </div>
+  <div class="lj-card">
+    <span class="lj-dot"></span>
+    <span class="lj-icon">🔧</span>
+    <div class="lj-name">MODEL COMPRESSION</div>
+    <div class="lj-sub">Quantization · Pruning · QLoRA</div>
+  </div>
+  <div class="lj-card">
+    <span class="lj-dot"></span>
+    <span class="lj-icon">🕵️</span>
+    <div class="lj-name">AGENTIC FRAMEWORKS</div>
+    <div class="lj-sub">CrewAI · AutoGen · LangGraph</div>
+  </div>
+  <div class="lj-card">
+    <span class="lj-dot"></span>
+    <span class="lj-icon">⛓️</span>
+    <div class="lj-name">LANGCHAIN & LANGGRAPH</div>
+    <div class="lj-sub">Chains · Memory · Tools · Graph-Based Agent Flows</div>
+  </div>
 </div>
+
+</body>
+</html>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
