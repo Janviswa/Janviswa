@@ -174,15 +174,19 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-| | Topic | Details |
-|:--:|:--|:--|
-| 🔍 | **RAG SYSTEMS** | Retrieval-Augmented Generation · Semantic Search · Hybrid Retrieval |
-| 🤖 | **LLM AGENTS** | Tool Calling · Planning · Multi-Agent Systems |
-| 🧠 | **MULTIMODAL AI** | Vision + Language Fusion |
-| 🗄️ | **VECTOR DATABASES** | FAISS · ChromaDB · Pinecone |
-| 🔧 | **MODEL COMPRESSION** | Quantization · Pruning · QLoRA |
-| 🕵️ | **AGENTIC FRAMEWORKS** | CrewAI · AutoGen · LangGraph |
-| ⛓️ | **LANGCHAIN & LANGGRAPH** | Chains · Memory · Tools · Graph-Based Agent Flows |
+![RAG](https://img.shields.io/badge/🔍_RAG_Systems-Retrieval--Augmented_Generation_·_Semantic_Search_·_Hybrid_Retrieval-F875AA?style=for-the-badge)
+
+![Agents](https://img.shields.io/badge/🤖_LLM_Agents-Tool_Calling_·_Planning_·_Multi--Agent_Systems-F875AA?style=for-the-badge)
+
+![Multimodal](https://img.shields.io/badge/🧠_Multimodal_AI-Vision_+_Language_Fusion-F875AA?style=for-the-badge)
+
+![VectorDB](https://img.shields.io/badge/🗄️_Vector_Databases-FAISS_·_ChromaDB_·_Pinecone-F875AA?style=for-the-badge)
+
+![Compression](https://img.shields.io/badge/🔧_Model_Compression-Quantization_·_Pruning_·_QLoRA-F875AA?style=for-the-badge)
+
+![Frameworks](https://img.shields.io/badge/🕵️_Agentic_Frameworks-CrewAI_·_AutoGen_·_LangGraph-F875AA?style=for-the-badge)
+
+![LangChain](https://img.shields.io/badge/⛓️_LangChain_&_LangGraph-Chains_·_Memory_·_Tools_·_Graph--Based_Agent_Flows-F875AA?style=for-the-badge)
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
