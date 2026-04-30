@@ -174,22 +174,70 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 <div align="center">
 
-![RAG](https://img.shields.io/badge/🔍_RAG_Systems-Retrieval--Augmented_Generation_·_Semantic_Search_·_Hybrid_Retrieval-F875AA?style=for-the-badge)
+<table>
+<tr>
+<td align="center" width="200">
 
-![Agents](https://img.shields.io/badge/🤖_LLM_Agents-Tool_Calling_·_Planning_·_Multi--Agent_Systems-F875AA?style=for-the-badge)
+**🔍 RAG SYSTEMS**
 
-![Multimodal](https://img.shields.io/badge/🧠_Multimodal_AI-Vision_+_Language_Fusion-F875AA?style=for-the-badge)
+![](https://img.shields.io/badge/Retrieval-F875AA?style=flat-square) ![](https://img.shields.io/badge/Semantic_Search-F875AA?style=flat-square) ![](https://img.shields.io/badge/Hybrid_Retrieval-F875AA?style=flat-square)
 
-![VectorDB](https://img.shields.io/badge/🗄️_Vector_Databases-FAISS_·_ChromaDB_·_Pinecone-F875AA?style=for-the-badge)
+</td>
+<td align="center" width="200">
 
-![Compression](https://img.shields.io/badge/🔧_Model_Compression-Quantization_·_Pruning_·_QLoRA-F875AA?style=for-the-badge)
+**🤖 LLM AGENTS**
 
-![Frameworks](https://img.shields.io/badge/🕵️_Agentic_Frameworks-CrewAI_·_AutoGen_·_LangGraph-F875AA?style=for-the-badge)
+![](https://img.shields.io/badge/Tool_Calling-F875AA?style=flat-square) ![](https://img.shields.io/badge/Planning-F875AA?style=flat-square) ![](https://img.shields.io/badge/Multi--Agent-F875AA?style=flat-square)
 
-![LangChain](https://img.shields.io/badge/⛓️_LangChain_&_LangGraph-Chains_·_Memory_·_Tools_·_Graph--Based_Agent_Flows-F875AA?style=for-the-badge)
+</td>
+<td align="center" width="200">
+
+**🧠 MULTIMODAL AI**
+
+![](https://img.shields.io/badge/Vision_+_Language-F875AA?style=flat-square) ![](https://img.shields.io/badge/Fusion-F875AA?style=flat-square)
+
+</td>
+<td align="center" width="200">
+
+**🗄️ VECTOR DATABASES**
+
+![](https://img.shields.io/badge/FAISS-F875AA?style=flat-square) ![](https://img.shields.io/badge/ChromaDB-F875AA?style=flat-square) ![](https://img.shields.io/badge/Pinecone-F875AA?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+
+**🔧 MODEL COMPRESSION**
+
+![](https://img.shields.io/badge/Quantization-F875AA?style=flat-square) ![](https://img.shields.io/badge/Pruning-F875AA?style=flat-square) ![](https://img.shields.io/badge/QLoRA-F875AA?style=flat-square)
+
+</td>
+<td align="center" width="200">
+
+**🕵️ AGENTIC FRAMEWORKS**
+
+![](https://img.shields.io/badge/CrewAI-F875AA?style=flat-square) ![](https://img.shields.io/badge/AutoGen-F875AA?style=flat-square) ![](https://img.shields.io/badge/LangGraph-F875AA?style=flat-square)
+
+</td>
+<td align="center" width="200">
+
+**⛓️ LANGCHAIN & LANGGRAPH**
+
+![](https://img.shields.io/badge/Chains-F875AA?style=flat-square) ![](https://img.shields.io/badge/Memory-F875AA?style=flat-square) ![](https://img.shields.io/badge/Tools-F875AA?style=flat-square) ![](https://img.shields.io/badge/Graph_Flows-F875AA?style=flat-square)
+
+</td>
+<td align="center" width="200">
+
+**🧪 FINE-TUNING**
+
+![](https://img.shields.io/badge/LoRA-F875AA?style=flat-square) ![](https://img.shields.io/badge/QLoRA-F875AA?style=flat-square) ![](https://img.shields.io/badge/PEFT-F875AA?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
