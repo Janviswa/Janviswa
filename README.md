@@ -171,136 +171,24 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📡 AI Learning Journey — Currently Transmitting 🔥
-
-<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <style>
-    .bg { fill: #0d1117; }
-    .card { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 10; }
-    .title-text { font-family: 'Segoe UI', sans-serif; font-size: 18px; font-weight: 700; fill: #ffffff; }
-    .card-name { font-family: 'Segoe UI', sans-serif; font-size: 10px; font-weight: 700; fill: #F875AA; letter-spacing: 1px; }
-    .card-sub { font-family: 'Segoe UI', sans-serif; font-size: 9px; fill: #8b949e; }
-    .icon { font-family: 'Segoe UI Emoji', sans-serif; font-size: 18px; }
-    .dot { fill: #F875AA; }
-    .scan { fill: none; stroke: #F875AA; stroke-width: 2; opacity: 0.8; }
-
-    .dot1 { animation: pulse 1.5s ease-in-out infinite; }
-    .dot2 { animation: pulse 1.5s ease-in-out 0.2s infinite; }
-    .dot3 { animation: pulse 1.5s ease-in-out 0.4s infinite; }
-    .dot4 { animation: pulse 1.5s ease-in-out 0.6s infinite; }
-    .dot5 { animation: pulse 1.5s ease-in-out 0.8s infinite; }
-    .dot6 { animation: pulse 1.5s ease-in-out 1.0s infinite; }
-    .dot7 { animation: pulse 1.5s ease-in-out 1.2s infinite; }
-
-    .scan1 { animation: scan 2.8s linear infinite 0.0s; }
-    .scan2 { animation: scan 2.8s linear infinite 0.4s; }
-    .scan3 { animation: scan 2.8s linear infinite 0.8s; }
-    .scan4 { animation: scan 2.8s linear infinite 1.1s; }
-    .scan5 { animation: scan 2.8s linear infinite 1.4s; }
-    .scan6 { animation: scan 2.8s linear infinite 1.8s; }
-    .scan7 { animation: scan 2.8s linear infinite 2.1s; }
-
-    @keyframes pulse {
-      0%, 100% { opacity: 1; r: 4; }
-      50% { opacity: 0.3; r: 2.5; }
-    }
-    @keyframes scan {
-      0%   { transform: translateX(-110px); opacity: 0; }
-      10%  { opacity: 1; }
-      90%  { opacity: 1; }
-      100% { transform: translateX(110px); opacity: 0; }
-    }
-  </style>
-</defs>
-
-<!-- Background -->
-<rect width="800" height="420" rx="12" class="bg"/>
-
-<!-- Title -->
-<text x="24" y="38" class="title-text">📡 AI Learning Journey — Currently Transmitting 🔥</text>
-
-<!-- ROW 1 -->
-
-<!-- Card 1: RAG SYSTEMS -->
-<g transform="translate(16, 56)">
-  <rect width="176" height="110" rx="10" class="card"/>
-  <clipPath id="c1"><rect width="176" height="3" rx="1"/></clipPath>
-  <line x1="0" y1="1.5" x2="176" y2="1.5" class="scan scan1" clip-path="url(#c1)" stroke-width="2.5"/>
-  <circle cx="14" cy="18" r="4" class="dot dot1"/>
-  <text x="14" y="44" class="icon">🔍</text>
-  <text x="14" y="64" class="card-name">RAG SYSTEMS</text>
-  <text x="14" y="79" class="card-sub">Retrieval-Augmented</text>
-  <text x="14" y="91" class="card-sub">Generation · Semantic</text>
-  <text x="14" y="103" class="card-sub">Search · Hybrid Retrieval</text>
-</g>
-
-<!-- Card 2: LLM AGENTS -->
-<g transform="translate(204, 56)">
-  <rect width="176" height="110" rx="10" class="card"/>
-  <line x1="0" y1="1.5" x2="176" y2="1.5" class="scan scan2" stroke-width="2.5"/>
-  <circle cx="14" cy="18" r="4" class="dot dot2"/>
-  <text x="14" y="44" class="icon">🤖</text>
-  <text x="14" y="64" class="card-name">LLM AGENTS</text>
-  <text x="14" y="79" class="card-sub">Tool Calling · Planning</text>
-  <text x="14" y="91" class="card-sub">· Multi-Agent Systems</text>
-</g>
-
-<!-- Card 3: MULTIMODAL AI -->
-<g transform="translate(392, 56)">
-  <rect width="176" height="110" rx="10" class="card"/>
-  <line x1="0" y1="1.5" x2="176" y2="1.5" class="scan scan3" stroke-width="2.5"/>
-  <circle cx="14" cy="18" r="4" class="dot dot3"/>
-  <text x="14" y="44" class="icon">🧠</text>
-  <text x="14" y="64" class="card-name">MULTIMODAL AI</text>
-  <text x="14" y="79" class="card-sub">Vision + Language Fusion</text>
-</g>
-
-<!-- Card 4: VECTOR DATABASES -->
-<g transform="translate(580, 56)">
-  <rect width="204" height="110" rx="10" class="card"/>
-  <line x1="0" y1="1.5" x2="204" y2="1.5" class="scan scan4" stroke-width="2.5"/>
-  <circle cx="14" cy="18" r="4" class="dot dot4"/>
-  <text x="14" y="44" class="icon">🗄️</text>
-  <text x="14" y="64" class="card-name">VECTOR DATABASES</text>
-  <text x="14" y="79" class="card-sub">FAISS · ChromaDB · Pinecone</text>
-</g>
-
-<!-- ROW 2 -->
-
-<!-- Card 5: MODEL COMPRESSION -->
-<g transform="translate(16, 182)">
-  <rect width="176" height="110" rx="10" class="card"/>
-  <line x1="0" y1="1.5" x2="176" y2="1.5" class="scan scan5" stroke-width="2.5"/>
-  <circle cx="14" cy="18" r="4" class="dot dot5"/>
-  <text x="14" y="44" class="icon">🔧</text>
-  <text x="14" y="64" class="card-name">MODEL COMPRESSION</text>
-  <text x="14" y="79" class="card-sub">Quantization · Pruning</text>
-  <text x="14" y="91" class="card-sub">· QLoRA</text>
-</g>
-
-<!-- Card 6: AGENTIC FRAMEWORKS -->
-<g transform="translate(204, 182)">
-  <rect width="176" height="110" rx="10" class="card"/>
-  <line x1="0" y1="1.5" x2="176" y2="1.5" class="scan scan6" stroke-width="2.5"/>
-  <circle cx="14" cy="18" r="4" class="dot dot6"/>
-  <text x="14" y="44" class="icon">🕵️</text>
-  <text x="14" y="64" class="card-name">AGENTIC FRAMEWORKS</text>
-  <text x="14" y="79" class="card-sub">CrewAI · AutoGen</text>
-  <text x="14" y="91" class="card-sub">· LangGraph</text>
-</g>
-
-<!-- Card 7: LANGCHAIN & LANGGRAPH -->
-<g transform="translate(392, 182)">
-  <rect width="392" height="110" rx="10" class="card"/>
-  <line x1="0" y1="1.5" x2="392" y2="1.5" class="scan scan7" stroke-width="2.5"/>
-  <circle cx="14" cy="18" r="4" class="dot dot7"/>
-  <text x="14" y="44" class="icon">⛓️</text>
-  <text x="14" y="64" class="card-name">LANGCHAIN &amp; LANGGRAPH</text>
-  <text x="14" y="79" class="card-sub">Chains · Memory · Tools · Graph-Based Agent Flows</text>
-</g>
-
-</svg>
-
+ 
+<div align="center">
+![RAG](https://img.shields.io/badge/🔍_RAG_Systems-Retrieval--Augmented_Generation_·_Semantic_Search_·_Hybrid_Retrieval-F875AA?style=for-the-badge)
+ 
+![Agents](https://img.shields.io/badge/🤖_LLM_Agents-Tool_Calling_·_Planning_·_Multi--Agent_Systems-F875AA?style=for-the-badge)
+ 
+![Multimodal](https://img.shields.io/badge/🧠_Multimodal_AI-Vision_+_Language_Fusion-F875AA?style=for-the-badge)
+ 
+![VectorDB](https://img.shields.io/badge/🗄️_Vector_Databases-FAISS_·_ChromaDB_·_Pinecone-F875AA?style=for-the-badge)
+ 
+![Compression](https://img.shields.io/badge/🔧_Model_Compression-Quantization_·_Pruning_·_QLoRA-F875AA?style=for-the-badge)
+ 
+![Frameworks](https://img.shields.io/badge/🕵️_Agentic_Frameworks-CrewAI_·_AutoGen_·_LangGraph-F875AA?style=for-the-badge)
+ 
+![LangChain](https://img.shields.io/badge/⛓️_LangChain_&_LangGraph-Chains_·_Memory_·_Tools_·_Graph--Based_Agent_Flows-F875AA?style=for-the-badge)
+ 
+</div>
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="28"> GitHub Stats
