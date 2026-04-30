@@ -290,7 +290,7 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 | 📖 | Publish 2nd research paper | ![](https://img.shields.io/badge/IN_PROGRESS-F875AA?style=flat-square) |
 | 🤖 | Master multi-agent LLM frameworks | ![](https://img.shields.io/badge/IN_PROGRESS-F875AA?style=flat-square) |
 | 🔧 | Build & open-source a RAG framework | ![](https://img.shields.io/badge/PLANNED_📅-555555?style=flat-square) |
-| 🎓 | Land an AI/ML engineering job | ![](https://img.shields.io/badge/PLANNED_📅-555555?style=flat-square) |
+| 🎓 | Land an AI/ML engineering Job | ![](https://img.shields.io/badge/PLANNED_📅-555555?style=flat-square) |
 | ⭐ | Contribute to top open-source AI repos | ![](https://img.shields.io/badge/PLANNED_📅-555555?style=flat-square) |
 | 🧠 | Train a model from scratch (not just fine-tune) | ![](https://img.shields.io/badge/DREAMING_🔥-ff6b35?style=flat-square) |
 
