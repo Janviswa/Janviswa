@@ -186,6 +186,8 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 
 ![Frameworks](https://img.shields.io/badge/🕵️_Agentic_Frameworks-CrewAI_·_AutoGen_·_LangGraph-F875AA?style=for-the-badge)
 
+![LangChain](https://img.shields.io/badge/⛓️_LangChain_&_LangGraph-Chains_·_Memory_·_Tools_·_Graph--Based_Agent_Flows-F875AA?style=for-the-badge)
+
 </div>
 
 
@@ -289,7 +291,7 @@ print(me)  # → Code with passion. Build with purpose. 🚀
 | 📖 | Publish 2nd research paper | ![](https://img.shields.io/badge/IN_PROGRESS-F875AA?style=flat-square) |
 | 🤖 | Master multi-agent LLM frameworks | ![](https://img.shields.io/badge/IN_PROGRESS-F875AA?style=flat-square) |
 | 🔧 | Build & open-source a RAG framework | ![](https://img.shields.io/badge/PLANNED_📅-555555?style=flat-square) |
-| 🎓 | Land an AI/ML engineering internship | ![](https://img.shields.io/badge/PLANNED_📅-555555?style=flat-square) |
+| 🎓 | Land an AI/ML engineering job | ![](https://img.shields.io/badge/PLANNED_📅-555555?style=flat-square) |
 | ⭐ | Contribute to top open-source AI repos | ![](https://img.shields.io/badge/PLANNED_📅-555555?style=flat-square) |
 | 🧠 | Train a model from scratch (not just fine-tune) | ![](https://img.shields.io/badge/DREAMING_🔥-ff6b35?style=flat-square) |
 
